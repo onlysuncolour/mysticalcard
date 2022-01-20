@@ -1,4 +1,4 @@
-const { httpPost } = require('./httpPost')
+const {httpPost} = require('../utils/httpPost')
 
 const datas = 
 [

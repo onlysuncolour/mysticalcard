@@ -1,5 +1,5 @@
-const {httpGet} = require('../httpGet')
-const {writeFile} = require('./writeFile')
+const {httpGet} = require('../utils/httpGet')
+const {writeFile} = require('../utils/writeFile')
 
 let page =1, max, result = [],
   type="skill" // card , skill , contract , rune 

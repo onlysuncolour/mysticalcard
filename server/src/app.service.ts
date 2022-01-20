@@ -1,5 +1,6 @@
 import { Injectable } from '@nestjs/common';
 import { httpPost } from './app.post';
+const {host, Cookie} = require('../basicOptions.json')
 
 @Injectable()
 export class AppService {
@@ -8,11 +9,11 @@ export class AppService {
   }
   getOptions(path) {
     const options = {
-      host: 'n14.mysticalcard.com',
+      host: host,
       path: `/${path}.php`,
       method: 'POST',
       headers: {
-        "Cookie": "_sid=p1k5f4e4dpc5olfug4jqd6k7e6",
+        "Cookie": `_sid=${Cookie}`,
         "User-Agent": "UnityPlayer/2019.4.13f1 (UnityWebRequest/1.0, libcurl/7.52.0-DEV)",
         "Accept": "application/json",
         "Accept-Encoding": "deflate, gzip",

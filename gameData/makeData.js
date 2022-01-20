@@ -1,4 +1,4 @@
-const {writeFile} = require('./writeFile')
+const {writeFile} = require('../utils/writeFile')
 
 const type = 'contract'
 const skillData = require('./fulldata/skill.json')    
