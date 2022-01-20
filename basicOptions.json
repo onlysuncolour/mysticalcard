@@ -1,7 +1,4 @@
 {
-  "host": "x1.mysticalcard.com",
-  "path": "/meditation.php",
-  "Cookie": "kqfcdm7s3mngg56g8jemmgc346",
   "tiliPath": "/user.php",
   "tili": "z=58ewc12eNodjkELgjAYhv%2fLIC%2bV%2bG26zWCHEKGT3Tp0CXNTBzU%2fphgW%2ffdm8PLA85zeD3m%2bx44ciB5Uqe1UOuO7JZoV5zmNsEdUR6f9YPUqD3U93YoqwrlRaSxiGkMmsjz4XdGEwh7Cki0kG1anbAVExjV%2bwUk1tM0kE6JuQUrgRqfiLnkTYCRQpsmO4IyVeV2MH%2b3gwicI7YzGFbXXRW%2fxn74%2fEHE1KQ%3d%3d&b=04204e6278ba255eab679bb8aa6d6e40",
   "shuatuPath": "/mapstage.php",
@@ -15,6 +12,9 @@
   "shuatuRound": 35,
   "shuatuTotalRound": 0,
   
-  "round": 30,
-  "data": ""
+  "host": "x1.mysticalcard.com",
+  "path": "/pve.php",
+  "Cookie": "kqfcdm7s3mngg56g8jemmgc346",
+  "round": 90,
+  "data": "z=wkvja1leNodjstKxEAQRf8lYDY6Q1elO6kWeiEBceMILly4kX4mgUzSJDGi4r9bM5tLnQN1ub%2fF%2bWftivsizObZTp92fBy6fit3I1FjmfuczcMUlnkIFxjN%2b9NHeyrz7o080lEcQWmSzM6gQDgAHhBvobmpLAAH1mWc%2fPKdN6OoAu%2fBN6SrSilOB1oSCZLCNjUVd8X5uoDXCAZnt22MQ2B8RRRUC52SQ%2b9UExXqIB032kTRB6urEGuIuvaREqZ0KVs320V%2b5jPv%2bRS%2f3uKyDvPECti95Di1dgltP%2bSr%2bvsHIglNxw%3d%3d&b=fbf8e11601caf741797140268739d2d9"
 }

@@ -14,7 +14,6 @@ const options = {
     "Accept-Encoding": "deflate, gzip",
     "Content-Type": "application/x-www-form-urlencoded",
     "X-Unity-Version": "2019.4.13f1",
-    // 'Content-Length': Buffer.byteLength(data)
   }
 }
 const run = () => {
@@ -23,12 +22,6 @@ const run = () => {
     options.headers['Content-Length'] = Buffer.byteLength(d)
     promises.push(httpPost(options, d, i))
   })
-  // Promise.all(promises).then((resps) => {
-  //   if (resps.every(r => r < 1000)) {
-  //     return;
-  //   } 
-  //   run()
-  // })
 }
 
 run();
