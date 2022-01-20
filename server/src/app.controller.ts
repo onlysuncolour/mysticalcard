@@ -13,13 +13,4 @@ export class AppController {
   Journey(@Body() body): any {
     return this.appService.Journey(body)
   }
-  @Post('/maze')
-  maze(@Body() body): any {
-    console.log(123)
-    return this.appService.maze(body)
-  }
-  @Get('med')
-  med():any {
-    return this.appService.getMedition()
-  }
 }

@@ -1,0 +1,26 @@
+{
+  "name": "mysticalcard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "shuatu": "node ./runs/shuatu.js",
+    "test": "node ./runs/test.js",
+    "medition": "node ./medition/test.js",
+    "loadData": "node ./gameData/loadData.js",
+    "makeData": "node ./gameData/makeData.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onlysuncolour/mysticalcard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onlysuncolour/mysticalcard/issues"
+  },
+  "homepage": "https://github.com/onlysuncolour/mysticalcard#readme"
+}
