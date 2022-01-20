@@ -9,6 +9,7 @@
   "scripts": {
     "test": "node ./runs/test.js",
     "shuatu": "node ./runs/shuatu.js",
+    "explore": "node ./runs/explore.js",
     "medition": "node ./medition/test.js",
     "loadData": "node ./gameData/loadData.js",
     "makeData": "node ./gameData/makeData.js"
