@@ -22,6 +22,9 @@ const run = () => {
     options.headers['Content-Length'] = Buffer.byteLength(d)
     promises.push(httpPost(options, d, i))
   })
+  Promise.allSettled(promises).then(resps => {
+    // do nothing
+  })
 }
 
 run();

@@ -1,13 +1,12 @@
 const {httpPost} = require('../utils/httpPost')
-const { tili } = require('./tili')
-const {host, Cookie, explore_5_9, exploreHardPath} = require('../basicOptions.json')
+const {host, Cookie, explore_13_11, explorePath} = require('../basicOptions.json')
 
 
-const datas = Array.from({length: 30}).fill(explore_5_9)
+const datas = Array.from({length: 1}).fill(explore_13_11)
 
 const options = {
   host: host,
-  path: exploreHardPath,
+  path: explorePath,
   method: 'POST',
   headers: {
     "Cookie": `_sid=${Cookie}`,
@@ -30,7 +29,15 @@ const run = () => {
     console.log('n' ,n)
   })
   Promise.all(promises).then((resps) => {
-    if (resps.every(r => r < 160)) {
+    console.log(resps)
+    if (resps.every(r => r == 143)) {
+      console.log('没有体力啦')
+      console.log('没有体力啦')
+      console.log('没有体力啦')
+      return;
+    }
+    if (resps.every(r => r > 400)) {
+      console.log('打怪啦')
       return;
     }
     run()

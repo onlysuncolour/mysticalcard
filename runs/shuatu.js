@@ -1,9 +1,22 @@
 const {httpPost} = require('../utils/httpPost')
 const { tili } = require('./tili')
-const {host, Cookie, shuatu_18_11, shuatuPath, shuatuRound, shuatuTotalRound = 0} = require('../basicOptions.json')
+const {
+  host, 
+  Cookie, 
+  shuatu_18_11, 
+  shuatu_17_11, 
+  shuatu_15_11,
+  shuatu_14_11, 
+  shuatu_11_11,
+  shuatuPath, 
+  shuatuRound, 
+  shuatuTotalRound = 0,
+  contractPath,
+  getContractData,
+} = require('../basicOptions.json')
 
 
-const datas = Array.from({length: shuatuRound}).fill(shuatu_18_11)
+const datas = Array.from({length: shuatuRound}).fill(shuatu_17_11)
 
 const options = {
   host: host,
@@ -29,17 +42,19 @@ const run = () => {
     promises.push(httpPost(options, d, i, t++))
     console.log('n' ,n)
   })
-  if (n > shuatuTotalRound) {
+  if (shuatuTotalRound && n > shuatuTotalRound) {
     return;
   }
   Promise.all(promises).then((resps) => {
-    if (resps.every(r => r < 1000)) {
-      if (shuatuTotalRound) {
-        tili().then(run)
+    if (shuatuTotalRound) {
+      tili().then(run)
+    } else {
+      if (resps.some(r => r < 90)) {
+      // if (resps.some(r => r < 1000)) {
+        return;
       }
-      return;
+      run()
     }
-    run()
   })
 }
 

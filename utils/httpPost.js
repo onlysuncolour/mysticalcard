@@ -1,10 +1,14 @@
 const http = require('http')
 
-exports.httpPost = (options, data, i, timeout = 0) => {
-  return new Promise(_res => {
+exports.httpPost = (options, data, i=0, timeout = 0) => {
+  options.headers['Content-Length'] = Buffer.byteLength(data)
+  return new Promise((_res,_rej) => {
     const send =  () => {
       const req = http.request(options, (res) => {
         console.log(`${i} STATUS: ${res.statusCode}`);
+        if (res.statusCode != 200) {
+          _rej(res.statusCode)
+        }
         res.setEncoding('utf8');
         let rawData = '';
         res.on('data', (chunk) => {

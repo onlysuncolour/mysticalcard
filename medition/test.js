@@ -27,7 +27,7 @@ const getRune = (d) => new Promise((res => {
     n = data.NpcList.sort().pop()
   }
   setTimeout(
-    () => res(httpPost(options, datas[n])), 300
+    () => res(httpPost(options, datas[n])), 200
   )
 }))
 

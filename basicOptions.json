@@ -1,8 +1,14 @@
 {
+  "contractPath": "/contract.php",
+  "getContractData": "z=156us25neNodzj0LwjAUheH%2fErCLWnqTGG%2bFDFJEXerm4CJpE9qCJpdW6hf%2bd6PLgeedzptdX0PDVswGvXnUrfGNS0Yt1SJPqCXSa2%2f70NkfLvq0OxdlQmOtZYpplsIiRxldaZ5xmAOfcz6F5UQYgDhcJc7X%2fZNuGiQKzI1CpaywWFXKKLNUUBuBaCSyGduGYIe9jV9EFI1UuvvR9UMXfGwQ24GcL0xvi7ajf%2fp8AVdAN%2fs%3d&b=0a97ca667397aa5a2c117718c4630a00",
   "tiliPath": "/user.php",
   "tili": "z=58ewc12eNodjkELgjAYhv%2fLIC%2bV%2bG26zWCHEKGT3Tp0CXNTBzU%2fphgW%2ffdm8PLA85zeD3m%2bx44ciB5Uqe1UOuO7JZoV5zmNsEdUR6f9YPUqD3U93YoqwrlRaSxiGkMmsjz4XdGEwh7Cki0kG1anbAVExjV%2bwUk1tM0kE6JuQUrgRqfiLnkTYCRQpsmO4IyVeV2MH%2b3gwicI7YzGFbXXRW%2fxn74%2fEHE1KQ%3d%3d&b=04204e6278ba255eab679bb8aa6d6e40",
   "shuatuPath": "/mapstage.php",
   "shuatu_18_11": "z=qhuxl6dkve48eNo1jsFKxDAURf8lYDc6Je8106ZCFlIFXcy4EF3MRtK%2bdCZQ00dSKyr%2buxnBzYVz7uLeb%2fH2lY7iWtBs7sgvz8nFneWnxR5dKlajpK4KPjGbm0Bx9nSGyRzuX7t9wetgVKlLWcK21Spzb1AibAA3iJfQXFQWIAfWhQtD%2fOTF9FUzjEgtOqpH2ROMulVKbkn3tWzAiivxv3%2frFuunB8rvUMpc%2bLSz4d1OWZyRV967jxcXk59DdpDdI7vQ2UjdyfOf%2bvkFvXxEGQ%3d%3d&b=46fe256c414e2f5cc1d8f284976ddfff",
+  "shuatu_11_11": "z=zfkgs55go3keNo1jk1LAzEURf9LwNnUDpMPZ5JCFjIKddG6EF10U16T1zYwZh7JdETF%2f24quHlwzr1w3zd7%2f8ontmJ%2btI8%2bTK8Z0wboZYIT5mq2nTZtRWciex99GoO%2fwmB3632%2frWh2VtW6bmp%2bZ7QqfLCiEXzJxVKIBe9uJHBejmgrjC590mQlcuU74yQclHEKNGj00js8qq6VzrFb9r%2f%2fgBOE4cmX73hjShDyBuIFhiKagjTTFj%2feMOUwxmupuGfC2EPy%2fTnQn%2fr5BfkJRMU%3d&b=e8d8afb1db92a564dc546576ee0f607d",
+  "shuatu_14_11": "z=bzgoh4qn33eNo1jrFOwzAURf%2fFElmgkZ%2bJ4xjJA0orwdB2QDB0QY79aC0F58kOQYD677hILFc6597h%2frD373xkd8xPZuPD%2fJwxbS09zfaIuVoMSNHKik5E5j76NAV%2fgdEcHl77XUWLM03d1bwGqbum8GAEF7ACsRLiGtTVrQUoIdoKo0tfNJu3VirVeCVcJwftOLoBbItOca6115rdsP8Da5xtGB99uQdNV4qQtzZ%2b2LEIXpAW2uHnC6YcpngZFbcnjL1Nvj8F%2blPnX%2bI8RDw%3d&b=7cc717bf1c55c2fe007d9d6f16a4b792",
+  "shuatu_15_11": "z=1igxf863v1cjx8eNo1jkFLAzEQhf9LwL3ULplsGlchB9kW6qH1IHrwIpNN2gbW7JBsV1T8704FLwPf9x68%2bRbvX%2bUo7oQf7cbH6bmEvEN6mvAYSjXbVdOoik5E9j75PEZ%2fgcG%2bbt%2b6fUVzb3Xd1rKG1W2rmZ1VUsES1FKpBdxcNQjAR5kqpD5%2f0mSNcS2gA%2by1bCQnLXh2TvcHNE57cS3%2b99dhwjg8eP4ODHAQyw7TGQcWkpFm2oePl5BLHNOlxO6RQuow%2b%2b4U6U%2f9%2fAK6dEQ0&b=17b95336c57d715c59ec58cf1c9fd2ca",
+  "shuatu_17_11": "z=qizbm44gcseNo1jkFLxDAQhf9LwF7WLZ1ptkmFHJYq6GHXg%2bjBi8wmcTdQ0yGpFRX%2fu1nBy8D3vQdvvsXbVz6KK%2bEmc%2bPC%2fJh92hE%2fzHT0uVqMRqUrPjGbbXRpCu4Mo3m%2bfRn2FS%2fWyFrXTQ2bXsvCB4MNwhpwjbgCddESQDnYVT7a9MmzaZUiwLbru%2fbVai%2fRkdzAoVHSkta9FZfif%2f%2fazxTGO1e%2bA61KEPKO4juNRTQFeeG9%2f3jyKYcpnkvF3bOPAyU3nAL%2fqZ9fiDVDpg%3d%3d&b=11b4cfb5d3b4f2ae0f16ec0df3c34ac1",
   "exploreHardPath": "/mapstagehard.php",
   "explore_1_6": "z=8823b7yqrkz26eNodzrGOgkAUheF3mWRpXAn3AgOYTGHYTdZitTCxsDEzzBVIEG4Gwroa393R5iT%2fV527uNzGWqyEHdT3lbvBUTCrJCog4IZZrXvrhta%2bolPHn1O5DXiuVBLmYRRCWuSJb6MwQlgCLhEXkH3EGsAPyoD6yv3zpICyVMYAspKYFaY4Jza1GRmMDRqTo%2fgUv5r3k67piybddhvrP0nPPPOW%2fg7kxnbovYG3HVNfamfLpuU3PZ5LaTs7&b=cfb2d3fc1147082e64f649277887b21c",
   "explore_2_6": "z=cr71271gnhb46eNodzk0LgkAUheH%2fMpCbSrzjmBrMIiyoRbUIWrSJ0XstwfQyin3Rf29qc%2bB9Vuctbq%2fuIuYCW716cN1a8gatgiTy%2bMqsFw3atsJf1Pq0Pmc7j4dCKz%2fxAx%2biNFGucy0DCVOQUynHEI9CA%2bBGzjxqCvvkXiuUACmWaQJpDGqmKCqLKM5LhUWIJYmJ2Bo%2b9OZCS%2bpNVW%2fQfQLpnAfe0f1Itqva5ofO9kxNZixm14r%2f9PkCodc72g%3d%3d&b=472234f6f03328a73d94b53c90726c52",
@@ -10,11 +16,28 @@
   "explorePath": "/mapstage.php",
   "explore_13_11": "z=715t38x1q5qh53eNodjk8LgkAUxL%2fLQl5K2beupsEewoI6ZIegQ5dY3YcKpo9V7B9997YYGGZ%2bc5k3u72Giq2Y6dX2QW1v0ZuU5KnwqCZS687YvjG%2f0qrL7prlHk2lkkES8ACiNJGuF0pwAT4IX4g5LGehBnAmYg%2b70j5pVMsIpUFZyDBxkYOMIgnGKY2T1PCYLdhB02nUFW5w1E27N%2b6T4NwNNFGO9zPaoek7R8GxI2GXaWuyuqE%2f%2bnwBlgs7Dw%3d%3d&b=d596c61ed32e571ebef852874fa523a6",
   "shuatuRound": 35,
-  "shuatuTotalRound": 0,
+  "shuatuTotalRound": 600,
+
+  "buyContractPath": "/shop.php",
+  "buyContractData": "z=cyswx412r1eNo9jrEKwjAQht8lYBe1JGltUiGDdlAXXcTBRdLkaguaHG2tqPjuRhCX476P%2f47%2fRa7P7kzmxHq1vD2iQYlZLiOsEdXC2dY39gsXdVyfim2Eg1FpLGMasxBLA5eKU86mjE85HzMxSjRjYfAsAmfaB%2fYqsxbyTFLKKYjclKWpqJSCaUgqLVJJJmTlve02NtQIzwIXdYMBWFj34PbNFbql7k39czjgFu4HaLvGu5%2fbIbhCt%2fZ%2f%2bv4AhLc%2fxA%3d%3d&b=8dfd4041417f9c6a9d71c59ff7106232",
+  "buyContractRound": 30,
+  
+  "sinuePath": "/NewBoss.php",
+  "sinueData": "z=6crte5jyvpieNodjkELgjAYQP%2fLIC%2bluG%2fqtmCHEKKT3Tp0ic1vqVD6McWo6L9nXR68d3pvdn%2bNDdsyHMy%2ba9opmg0ImUfUEpldj2Ho8Cc3cz5cyiqiuTZZopI04blW2eLOQAo85hADrLlcCcv5Aigi39fhSZOx4FGjE9o6J32aopSFvSqHCjgKLdiG0UyVf5x8GLuhX3b40o7k%2b9IGLNuO%2funzBeI%2bM9k%3d&b=8aad2ef1ec884a2ff5e43b7139e25726",
+  "sinueRound": 80,
+
+  "onebyonePath": "/NewBoss.php",
+  "onebyoneData": "z=6crte5jyvpieNodjkELgjAYQP%2fLIC%2bluG%2fqtmCHEKKT3Tp0ic1vqVD6McWo6L9nXR68d3pvdn%2bNDdsyHMy%2ba9opmg0ImUfUEpldj2Ho8Cc3cz5cyiqiuTZZopI04blW2eLOQAo85hADrLlcCcv5Aigi39fhSZOx4FGjE9o6J32aopSFvSqHCjgKLdiG0UyVf5x8GLuhX3b40o7k%2b9IGLNuO%2funzBeI%2bM9k%3d&b=8aad2ef1ec884a2ff5e43b7139e25726",
+  "onebyoneRound": 80,
+
+  "onebyoneS_Path": "/NewBoss.php",
+  "onebyoneS_Data": "z=6crte5jyvpieNodjkELgjAYQP%2fLIC%2bluG%2fqtmCHEKKT3Tp0ic1vqVD6McWo6L9nXR68d3pvdn%2bNDdsyHMy%2ba9opmg0ImUfUEpldj2Ho8Cc3cz5cyiqiuTZZopI04blW2eLOQAo85hADrLlcCcv5Aigi39fhSZOx4FGjE9o6J32aopSFvSqHCjgKLdiG0UyVf5x8GLuhX3b40o7k%2b9IGLNuO%2funzBeI%2bM9k%3d&b=8aad2ef1ec884a2ff5e43b7139e25726",
+  "onebyoneS_SingleRound": 30,
+  "onebyoneS_Round": 80,
   
   "host": "x1.mysticalcard.com",
-  "path": "/mapstagehard.php",
-  "Cookie": "gsm0fbpj0ba9t6is9d5lpg4lb6",
-  "round": 90,
-  "data": "z=befuo8qbtyg4g5eNodzsGKwjAUheF3CdiNWpLb1t4OZCFV0MXoQnDhZkiaqxZqe4ml6ojvbnRz4P9W5yku%2f9eT%2bBGu08s7N52naNCpRIz4zKznrfNd7T7R6MPqr9xEPFQ6jTGWscoKTENbDRLUVMEUYKzyUWKUCgOziNrKP7jXVZFJkyUmR4WAFiyBRXt0SVHlQEcUE%2fFreNebEy2oN3WzduFTKoPzwBu67clf664NqIJtmdrSeFeea%2f7S6w2msTvV&b=a239f48340248151757c4b7da7af6153"
+  "path": "/NewBoss.php",
+  "Cookie": "4biute6fjogk1uj1f1i6u43fn4",
+  "round": 60,
+  "data": "z=akwqe74kio85aeNo1jrEKwkAQRP%2flwDRquN27xES4QlOojTZiYSOJt2pAc0uikSj%2buxfBZmAeD2be4vZqzmIqrDPzR7dwzjZBa1ArDPjCbGaVrV1p%2b3I1%2b%2bUhWwfcHo0Ok1CGEKWJ9r0wKBHGgGPEIUwGKgfwgXFA1bHu%2bG5kbKWklPREnqITaAUqIlJRgXGaQCHFSPy2V9Z%2fASXjP9h2TB71Are8pueO6qZ0Va95tmGqsry22aXkH%2fp8AYELPQE%3d&b=df4f9363677e486b5e8f8c77ce8a0491"
 }
