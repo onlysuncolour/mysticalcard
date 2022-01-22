@@ -15,9 +15,7 @@
   "explore_5_9": "z=befuo8qbtyg4g5eNodzsGKwjAUheF3CdiNWpLb1t4OZCFV0MXoQnDhZkiaqxZqe4ml6ojvbnRz4P9W5yku%2f9eT%2bBGu08s7N52naNCpRIz4zKznrfNd7T7R6MPqr9xEPFQ6jTGWscoKTENbDRLUVMEUYKzyUWKUCgOziNrKP7jXVZFJkyUmR4WAFiyBRXt0SVHlQEcUE%2fFreNebEy2oN3WzduFTKoPzwBu67clf664NqIJtmdrSeFeea%2f7S6w2msTvV&b=a239f48340248151757c4b7da7af6153",
   "explorePath": "/mapstage.php",
   "explore_13_11": "z=715t38x1q5qh53eNodjk8LgkAUxL%2fLQl5K2beupsEewoI6ZIegQ5dY3YcKpo9V7B9997YYGGZ%2bc5k3u72Giq2Y6dX2QW1v0ZuU5KnwqCZS687YvjG%2f0qrL7prlHk2lkkES8ACiNJGuF0pwAT4IX4g5LGehBnAmYg%2b70j5pVMsIpUFZyDBxkYOMIgnGKY2T1PCYLdhB02nUFW5w1E27N%2b6T4NwNNFGO9zPaoek7R8GxI2GXaWuyuqE%2f%2bnwBlgs7Dw%3d%3d&b=d596c61ed32e571ebef852874fa523a6",
-  "shuatuRound": 35,
-  "shuatuTotalRound": 600,
-
+  
   "buyContractPath": "/shop.php",
   "buyContractData": "z=cyswx412r1eNo9jrEKwjAQht8lYBe1JGltUiGDdlAXXcTBRdLkaguaHG2tqPjuRhCX476P%2f47%2fRa7P7kzmxHq1vD2iQYlZLiOsEdXC2dY39gsXdVyfim2Eg1FpLGMasxBLA5eKU86mjE85HzMxSjRjYfAsAmfaB%2fYqsxbyTFLKKYjclKWpqJSCaUgqLVJJJmTlve02NtQIzwIXdYMBWFj34PbNFbql7k39czjgFu4HaLvGu5%2fbIbhCt%2fZ%2f%2bv4AhLc%2fxA%3d%3d&b=8dfd4041417f9c6a9d71c59ff7106232",
   "buyContractRound": 30,
@@ -25,7 +23,7 @@
   "sinuePath": "/NewBoss.php",
   "sinueData": "z=6crte5jyvpieNodjkELgjAYQP%2fLIC%2bluG%2fqtmCHEKKT3Tp0ic1vqVD6McWo6L9nXR68d3pvdn%2bNDdsyHMy%2ba9opmg0ImUfUEpldj2Ho8Cc3cz5cyiqiuTZZopI04blW2eLOQAo85hADrLlcCcv5Aigi39fhSZOx4FGjE9o6J32aopSFvSqHCjgKLdiG0UyVf5x8GLuhX3b40o7k%2b9IGLNuO%2funzBeI%2bM9k%3d&b=8aad2ef1ec884a2ff5e43b7139e25726",
   "sinueRound": 80,
-
+  
   "onebyonePath": "/NewBoss.php",
   "onebyoneData": "z=6crte5jyvpieNodjkELgjAYQP%2fLIC%2bluG%2fqtmCHEKKT3Tp0ic1vqVD6McWo6L9nXR68d3pvdn%2bNDdsyHMy%2ba9opmg0ImUfUEpldj2Ho8Cc3cz5cyiqiuTZZopI04blW2eLOQAo85hADrLlcCcv5Aigi39fhSZOx4FGjE9o6J32aopSFvSqHCjgKLdiG0UyVf5x8GLuhX3b40o7k%2b9IGLNuO%2funzBeI%2bM9k%3d&b=8aad2ef1ec884a2ff5e43b7139e25726",
   "onebyoneRound": 80,
@@ -34,6 +32,9 @@
   "onebyoneS_Data": "z=6crte5jyvpieNodjkELgjAYQP%2fLIC%2bluG%2fqtmCHEKKT3Tp0ic1vqVD6McWo6L9nXR68d3pvdn%2bNDdsyHMy%2ba9opmg0ImUfUEpldj2Ho8Cc3cz5cyiqiuTZZopI04blW2eLOQAo85hADrLlcCcv5Aigi39fhSZOx4FGjE9o6J32aopSFvSqHCjgKLdiG0UyVf5x8GLuhX3b40o7k%2b9IGLNuO%2funzBeI%2bM9k%3d&b=8aad2ef1ec884a2ff5e43b7139e25726",
   "onebyoneS_SingleRound": 30,
   "onebyoneS_Round": 80,
+
+  "shuatuRound": 35,
+  "shuatuTotalRound": 600,
   
   "host": "x1.mysticalcard.com",
   "path": "/NewBoss.php",
