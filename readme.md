@@ -28,6 +28,32 @@
 
 刷莉莉丝，最好还是去淘宝找人代刷。这边刷莉莉丝需要一定的代码技术功底。
 
+### 关键数据
+
+#### host
+
+如图 http://x1.mysticalcard.com 即是host，在此运行环境中，一般取 **x1.mysticalcard.com**
+
+![host](./pics/host.jpeg)
+
+#### path
+
+如图 /xxx.php 即是 **path**
+
+![path](./pics/path.jpeg)
+
+#### Cookie
+
+如图中 _sid=xxxxxxxxx 即是Cookie，在此运行环境中，仅取_sid=后面的数据，即xxxxxxx
+
+![cookie](./pics/cookie.jpeg)
+
+#### data/body
+
+如图中 很长的一串文本 即为 data 或 body
+
+![body](./pics/body.jpeg)
+
 ***
 以上就是所有关于charles的介绍。下面的文档几乎不涉及charles。
 
@@ -115,6 +141,15 @@ data是请求数据
 
 一般是在charles里面找到。即 body/content/raw
 
+
+### 重中之重
+
+在进行之后描述的操作前，一定要确保自己已经修改了 **host、path、Cookie、data**
+
+在进行之后描述的操作前，一定要确保自己已经修改了 **host、path、Cookie、data**
+
+在进行之后描述的操作前，一定要确保自己已经修改了 **host、path、Cookie、data**
+
 ### 命令行
 
 请**自行百度**vscode的**命令行**怎么打开。
@@ -127,6 +162,8 @@ data是请求数据
 * node run tili
 * node run obo
 * node run obos
+
+在命令行内输入之后按回车即可运行
 
 #### test
 test是一般运行
@@ -142,3 +179,4 @@ obo是 one by one，即一次运行之后运行下一次
 
 #### obos
 obos是 ones by ones，即多次运行之后继续下一轮多次运行
+
