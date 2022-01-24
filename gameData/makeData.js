@@ -1,6 +1,6 @@
 const {writeFile} = require('../utils/writeFile')
 
-const type = 'contract'
+const type = 'card'
 const skillData = require('./fulldata/skill.json')    
 let fullData, _myData
 switch (type) {
@@ -40,7 +40,7 @@ if (type === 'card') {
     _card.result = result
     return _card;
   }).filter(c => !!c.id).sort((a, b) => b.id - a.id).map(c => c.result);
-  writeFile(`./mydata/${type}.json`, JSON.stringify(myData))
+  writeFile(`gameData/mydata/${type}.json`, JSON.stringify(myData))
 }
 if (type === 'contract') {
   const myData = _myData.data.Cards.filter(c => c.ContractCondition != 0).map(card => {
@@ -60,7 +60,7 @@ if (type === 'contract') {
     _card.result = result
     return _card;
   }).filter(c => !!c.id).sort((a, b) => b.id - a.id).map(c => c.result);
-  writeFile(`./mydata/${type}.json`, JSON.stringify(myData))
+  writeFile(`gameData/mydata/${type}.json`, JSON.stringify(myData))
 }
 
 

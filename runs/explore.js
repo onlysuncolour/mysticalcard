@@ -1,12 +1,12 @@
 const {httpPost} = require('../utils/httpPost')
-const {host, Cookie, explore_13_11, explorePath} = require('../basicOptions.json')
+const {host, Cookie, exploreRound = 1, explore_13_11, explorePath, explore_5_9, exploreHardPath} = require('../basicOptions.json')
 
 
-const datas = Array.from({length: 1}).fill(explore_13_11)
+const datas = Array.from({length: exploreRound}).fill(explore_5_9)
 
 const options = {
   host: host,
-  path: explorePath,
+  path: exploreHardPath,
   method: 'POST',
   headers: {
     "Cookie": `_sid=${Cookie}`,
@@ -30,7 +30,7 @@ const run = () => {
   })
   Promise.all(promises).then((resps) => {
     console.log(resps)
-    if (resps.every(r => r == 143)) {
+    if (resps.some(r => r == 143)) {
       console.log('没有体力啦')
       console.log('没有体力啦')
       console.log('没有体力啦')

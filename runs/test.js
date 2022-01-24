@@ -2,6 +2,8 @@ const {httpPost} = require('../utils/httpPost')
 const {host, path, Cookie, data, round = 1} = require('../basicOptions.json')
 
 const datas = Array.from({length: round}).fill(data);
+// const datas = [
+// ]
 
 const options = {
   host: host,

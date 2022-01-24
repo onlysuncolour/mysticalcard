@@ -13,6 +13,7 @@
   "explore_1_6": "z=8823b7yqrkz26eNodzrGOgkAUheF3mWRpXAn3AgOYTGHYTdZitTCxsDEzzBVIEG4Gwroa393R5iT%2fV527uNzGWqyEHdT3lbvBUTCrJCog4IZZrXvrhta%2bolPHn1O5DXiuVBLmYRRCWuSJb6MwQlgCLhEXkH3EGsAPyoD6yv3zpICyVMYAspKYFaY4Jza1GRmMDRqTo%2fgUv5r3k67piybddhvrP0nPPPOW%2fg7kxnbovYG3HVNfamfLpuU3PZ5LaTs7&b=cfb2d3fc1147082e64f649277887b21c",
   "explore_2_6": "z=cr71271gnhb46eNodzk0LgkAUheH%2fMpCbSrzjmBrMIiyoRbUIWrSJ0XstwfQyin3Rf29qc%2bB9Vuctbq%2fuIuYCW716cN1a8gatgiTy%2bMqsFw3atsJf1Pq0Pmc7j4dCKz%2fxAx%2biNFGucy0DCVOQUynHEI9CA%2bBGzjxqCvvkXiuUACmWaQJpDGqmKCqLKM5LhUWIJYmJ2Bo%2b9OZCS%2bpNVW%2fQfQLpnAfe0f1Itqva5ofO9kxNZixm14r%2f9PkCodc72g%3d%3d&b=472234f6f03328a73d94b53c90726c52",
   "explore_5_9": "z=befuo8qbtyg4g5eNodzsGKwjAUheF3CdiNWpLb1t4OZCFV0MXoQnDhZkiaqxZqe4ml6ojvbnRz4P9W5yku%2f9eT%2bBGu08s7N52naNCpRIz4zKznrfNd7T7R6MPqr9xEPFQ6jTGWscoKTENbDRLUVMEUYKzyUWKUCgOziNrKP7jXVZFJkyUmR4WAFiyBRXt0SVHlQEcUE%2fFreNebEy2oN3WzduFTKoPzwBu67clf664NqIJtmdrSeFeea%2f7S6w2msTvV&b=a239f48340248151757c4b7da7af6153",
+  "exploreRound": 50,
   "explorePath": "/mapstage.php",
   "explore_13_11": "z=715t38x1q5qh53eNodjk8LgkAUxL%2fLQl5K2beupsEewoI6ZIegQ5dY3YcKpo9V7B9997YYGGZ%2bc5k3u72Giq2Y6dX2QW1v0ZuU5KnwqCZS687YvjG%2f0qrL7prlHk2lkkES8ACiNJGuF0pwAT4IX4g5LGehBnAmYg%2b70j5pVMsIpUFZyDBxkYOMIgnGKY2T1PCYLdhB02nUFW5w1E27N%2b6T4NwNNFGO9zPaoek7R8GxI2GXaWuyuqE%2f%2bnwBlgs7Dw%3d%3d&b=d596c61ed32e571ebef852874fa523a6",
   
@@ -26,7 +27,7 @@
   
   "onebyonePath": "/NewBoss.php",
   "onebyoneData": "z=6crte5jyvpieNodjkELgjAYQP%2fLIC%2bluG%2fqtmCHEKKT3Tp0ic1vqVD6McWo6L9nXR68d3pvdn%2bNDdsyHMy%2ba9opmg0ImUfUEpldj2Ho8Cc3cz5cyiqiuTZZopI04blW2eLOQAo85hADrLlcCcv5Aigi39fhSZOx4FGjE9o6J32aopSFvSqHCjgKLdiG0UyVf5x8GLuhX3b40o7k%2b9IGLNuO%2funzBeI%2bM9k%3d&b=8aad2ef1ec884a2ff5e43b7139e25726",
-  "onebyoneRound": 80,
+  "onebyoneRound": 99,
 
   "onebyoneS_Path": "/NewBoss.php",
   "onebyoneS_Data": "z=6crte5jyvpieNodjkELgjAYQP%2fLIC%2bluG%2fqtmCHEKKT3Tp0ic1vqVD6McWo6L9nXR68d3pvdn%2bNDdsyHMy%2ba9opmg0ImUfUEpldj2Ho8Cc3cz5cyiqiuTZZopI04blW2eLOQAo85hADrLlcCcv5Aigi39fhSZOx4FGjE9o6J32aopSFvSqHCjgKLdiG0UyVf5x8GLuhX3b40o7k%2b9IGLNuO%2funzBeI%2bM9k%3d&b=8aad2ef1ec884a2ff5e43b7139e25726",
@@ -36,9 +37,9 @@
   "shuatuRound": 35,
   "shuatuTotalRound": 600,
   
-  "host": "x1.mysticalcard.com",
-  "path": "/NewBoss.php",
-  "Cookie": "4biute6fjogk1uj1f1i6u43fn4",
-  "round": 60,
-  "data": "z=akwqe74kio85aeNo1jrEKwkAQRP%2flwDRquN27xES4QlOojTZiYSOJt2pAc0uikSj%2buxfBZmAeD2be4vZqzmIqrDPzR7dwzjZBa1ArDPjCbGaVrV1p%2b3I1%2b%2bUhWwfcHo0Ok1CGEKWJ9r0wKBHGgGPEIUwGKgfwgXFA1bHu%2bG5kbKWklPREnqITaAUqIlJRgXGaQCHFSPy2V9Z%2fASXjP9h2TB71Are8pueO6qZ0Va95tmGqsry22aXkH%2fp8AYELPQE%3d&b=df4f9363677e486b5e8f8c77ce8a0491"
+  "host": "x39.mysticalcard.com",
+  "path": "/legion.php",
+  "Cookie": "0khi5rbvpsen90mtfqbj6jnqk0",
+  "round": 70,
+  "data": "z=fqy2i8ecyfab65eNotjsEKwjAQRP8lYC9qyaatjUIOUg%2be6kU8eJGYbG1Bk6WVShX%2f3VSdwzLz2IF5sduzu7AVs15tvNN3jHoleZpGVBOptbOtb%2bwYruq4PRVlRL1RaSxjHkO2lOGvPyvBBcxBzIWYQj5JNEA4YhGhM%2b1Ad4UgTQZWI2AullaeEU2VJ3nGK12lwrAZ26Op9wNhmAJj%2fNkk2MI3rhsx%2fyoQ6qnExwHbrvHuX9gRukK3tqgb%2bqL3B9TgP7c%3d&b=21fdc8d6aba63b8dad632e6af15dd8e4"
 }

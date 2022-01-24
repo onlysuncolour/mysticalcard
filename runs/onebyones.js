@@ -8,11 +8,11 @@ const {
   onebyoneS_Round = 1
 } = require('../basicOptions.json')
 
-const datas = Array.from({length: onebyoneS_SingleRound}).fill(data);
+const datas = Array.from({length: onebyoneS_SingleRound}).fill(onebyoneS_Data);
 
 const options = {
   host: host,
-  path: onebyonePath,
+  path: onebyoneS_Path,
   method: 'POST',
   headers: {
     "Cookie": `_sid=${Cookie}`,
@@ -29,10 +29,10 @@ const options = {
 let n = 0
 
 const runRound = () => {
-  n++
-  if (n > onebyoneRound) {
+  if (n > onebyoneS_Round) {
     return
   }
+  n++
   setTimeout(
     () => {
       const promises = []

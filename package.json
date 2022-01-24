@@ -8,6 +8,7 @@
   },
   "scripts": {
     "test": "node ./runs/test.js",
+    "ctest": "node ./runs/coupleTest.js",
     "shuatu": "node ./runs/shuatu.js",
     "tili": "node ./runs/runtili.js",
     "obo": "node ./runs/onebyone.js",
