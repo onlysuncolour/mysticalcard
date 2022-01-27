@@ -90,7 +90,7 @@ if (type === 'prop') {
     let pt = propTypes[p.PropId];
     let type = TYPES[p.Type]
     myData[type] = [...(myData[type]||[]), 
-    `${pt.Name} - ${p.Cnt}`]
+    `${pt.Name} - ${p.Cnt}${pt.MaxNum && '/'+pt.MaxNum}`]
   })
   writeFile(`gameData/mydata/${type}.json`, JSON.stringify(myData))
 }
