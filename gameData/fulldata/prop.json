@@ -1,0 +1,1642 @@
+{
+  "status": 1,
+  "data": {
+      "Props": [
+          {
+              "PropId": "1",
+              "Name": "英雄血瓶",
+              "Price": "150",
+              "Type": "1",
+              "Round": "0",
+              "Description": "为玩家补充英雄的损失血量，总量为5W。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "2",
+              "Name": "卡牌血瓶",
+              "Price": "150",
+              "Type": "2",
+              "Round": "0",
+              "Description": "为玩家补充卡牌的损失血量，总量为5W。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "3",
+              "Name": "增力药水",
+              "Price": "50",
+              "Type": "3",
+              "Round": "1",
+              "Description": "为玩家提升50%攻击力，效果持续1局战斗。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "4",
+              "Name": "地图侦查",
+              "Price": "200",
+              "Type": "4",
+              "Round": "1800",
+              "Description": "可以侦查全地图各势力点人数，持续半个小时。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "8",
+              "Name": "摩多药水",
+              "Price": "0",
+              "Type": "5",
+              "Round": "0",
+              "Description": "蕴含着恶魔力量的药水，用于超级洗练的标准材料。可在魔神试炼中掉落。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "9",
+              "Name": "凤凰眼宝石",
+              "Price": "0",
+              "Type": "5",
+              "Round": "0",
+              "Description": "近乎完美的魔力宝石，用于超级洗练的标准材料。可在魔神试炼中掉落。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "10",
+              "Name": "时空沙漏",
+              "Price": "0",
+              "Type": "5",
+              "Round": "0",
+              "Description": "掌控世界线变动的沙漏，用于超级洗练的标准材料。可在魔神试炼中掉落。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "11",
+              "Name": "洪荒卷轴",
+              "Price": "0",
+              "Type": "5",
+              "Round": "0",
+              "Description": "记述着远古之力的卷轴，用于超级洗练的标准材料。可在魔神试炼中掉落。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "13",
+              "Name": "智识之轮",
+              "Price": "0",
+              "Type": "5",
+              "Round": "0",
+              "Description": "蕴含扰动时间修改时间线的能力，用于超级洗练的高阶材料。可在魔神肆虐中掉落。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "14",
+              "Name": "以太粒子",
+              "Price": "0",
+              "Type": "5",
+              "Round": "0",
+              "Description": "这些存在封闭容器内的闪光粒子，用于保护穿越时间时间线的时候身体不会被撕裂，用于超级洗练高阶材料。可在魔神肆虐中掉落。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "15",
+              "Name": "相位替身",
+              "Price": "0",
+              "Type": "5",
+              "Round": "0",
+              "Description": "这块人型雕像可以把人从时空穿越中拉回原本的时间线，用于超级洗练高阶材料。可在魔神肆虐中掉落。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "16",
+              "Name": "全知之眼",
+              "Price": "0",
+              "Type": "5",
+              "Round": "0",
+              "Description": "这块像眼睛一样的石头，将会提供其他时间线上的可能性，用于超级洗练高阶材料。可在魔神肆虐中掉落。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "17",
+              "Name": "守护勋章",
+              "Price": "0",
+              "Type": "99",
+              "Round": "0",
+              "Description": "这枚勋章将给人再次挑战的勇气",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "101",
+              "Name": "世界树之叶",
+              "Price": "0",
+              "Type": "7",
+              "Round": "0",
+              "Description": "蕴含着来自尤克特拉希尔的神圣祝福。用于二维提升。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "102",
+              "Name": "干枯之骨",
+              "Price": "0",
+              "Type": "7",
+              "Round": "0",
+              "Description": "也许有一天这些骨头将再次站起来。用于二维提升。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "103",
+              "Name": "锐利凶爪",
+              "Price": "0",
+              "Type": "7",
+              "Round": "0",
+              "Description": "这种猛兽的爪子可以轻易撕碎一般冒险者的防具。用于二维提升。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "104",
+              "Name": "古代箭矢",
+              "Price": "0",
+              "Type": "7",
+              "Round": "0",
+              "Description": "曾经皇家卫队的制式箭矢，现在多用于纪念而被珍藏。用于二维提升。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "105",
+              "Name": "残破的利刃",
+              "Price": "0",
+              "Type": "7",
+              "Round": "0",
+              "Description": "剑刃上的豁口记录了曾经激烈的对决。用于二维提升。",
+              "MaxNum": "199"
+          },
+          {
+              "PropId": "106",
+              "Name": "轻盈之羽",
+              "Price": "0",
+              "Type": "7",
+              "Round": "0",
+              "Description": "五色鸾鸟的尾羽，不仅仅是装饰作用。用于二维提升。",
+              "MaxNum": "199"
+          },
+          {
+              "PropId": "107",
+              "Name": "扭曲鳞片",
+              "Price": "0",
+              "Type": "7",
+              "Round": "0",
+              "Description": "龙类的鳞片，来源不明。用于二维提升。",
+              "MaxNum": "199"
+          },
+          {
+              "PropId": "108",
+              "Name": "瓶装鬼魂",
+              "Price": "0",
+              "Type": "7",
+              "Round": "0",
+              "Description": "不知道死灵法师们是如何把灵魂禁锢在这瓶中的。用于二维提升。",
+              "MaxNum": "199"
+          },
+          {
+              "PropId": "109",
+              "Name": "万象花朵",
+              "Price": "0",
+              "Type": "7",
+              "Round": "0",
+              "Description": "把此花朵配于领口，花香安神醒脑。用于二维提升。",
+              "MaxNum": "199"
+          },
+          {
+              "PropId": "110",
+              "Name": "远洋珊瑚",
+              "Price": "0",
+              "Type": "7",
+              "Round": "0",
+              "Description": "在与鱼人族零星的交易过程中流入魔卡大陆，并不多见。用于二维提升。",
+              "MaxNum": "199"
+          },
+          {
+              "PropId": "111",
+              "Name": "雷鸣之石",
+              "Price": "0",
+              "Type": "7",
+              "Round": "0",
+              "Description": "合理的运用可以发动雷电的力量。用于二维提升。",
+              "MaxNum": "199"
+          },
+          {
+              "PropId": "112",
+              "Name": "永冻冰晶",
+              "Price": "0",
+              "Type": "7",
+              "Round": "0",
+              "Description": "因为探险者用火焰无法将其融化而意外发现于凛风高原的深处。用于二维提升。",
+              "MaxNum": "199"
+          },
+          {
+              "PropId": "113",
+              "Name": "不熄余烬",
+              "Price": "0",
+              "Type": "7",
+              "Round": "0",
+              "Description": "炎狱山的余烬从第五纪元到现在已经燃烧了一千两百多年。用于二维提升。",
+              "MaxNum": "199"
+          },
+          {
+              "PropId": "114",
+              "Name": "神秘书页",
+              "Price": "0",
+              "Type": "7",
+              "Round": "0",
+              "Description": "透过这残章似乎能窥见万物的规则。用于二维提升。",
+              "MaxNum": "199"
+          },
+          {
+              "PropId": "115",
+              "Name": "荧光芯片",
+              "Price": "0",
+              "Type": "7",
+              "Round": "0",
+              "Description": "这先进的科技仿佛来自另一个世界。用于二维提升。",
+              "MaxNum": "199"
+          },
+          {
+              "PropId": "116",
+              "Name": "迷迭唇彩",
+              "Price": "0",
+              "Type": "7",
+              "Round": "0",
+              "Description": "魔卡世界中绝对的畅销品，至少是在女性当中。用于二维提升。",
+              "MaxNum": "199"
+          },
+          {
+              "PropId": "117",
+              "Name": "璀璨星沙",
+              "Price": "0",
+              "Type": "7",
+              "Round": "0",
+              "Description": "宛如星河般闪耀，令人神往。用于二维提升。",
+              "MaxNum": "199"
+          },
+          {
+              "PropId": "118",
+              "Name": "无垢十字章",
+              "Price": "0",
+              "Type": "7",
+              "Round": "0",
+              "Description": "谨以此表彰最纯洁英勇的骑士。用于二维提升。",
+              "MaxNum": "199"
+          },
+          {
+              "PropId": "119",
+              "Name": "华贵玉玺",
+              "Price": "0",
+              "Type": "7",
+              "Round": "0",
+              "Description": "每一个拥有帝王之志的人都梦寐以求的至宝。用于二维提升。",
+              "MaxNum": "199"
+          },
+          {
+              "PropId": "120",
+              "Name": "永恒斗志结晶",
+              "Price": "0",
+              "Type": "7",
+              "Round": "0",
+              "Description": "能够突破限制，大幅提升自身的破坏力。用于攻击力提升。",
+              "MaxNum": "199"
+          },
+          {
+              "PropId": "121",
+              "Name": "永恒生命结晶",
+              "Price": "0",
+              "Type": "7",
+              "Round": "0",
+              "Description": "能够突破限制，大幅提升自身的生命力。用于生命力提升。",
+              "MaxNum": "199"
+          },
+          {
+              "PropId": "201",
+              "Name": "契约之血",
+              "Price": "0",
+              "Type": "8",
+              "Round": "0",
+              "Description": "据说以龙血树汁缔结的盟约会和龙血树的寿命一样持续至世界的尽头。用于契约进阶。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "202",
+              "Name": "秘技宝典",
+              "Price": "0",
+              "Type": "8",
+              "Round": "0",
+              "Description": "不断的学习总会带来进步。用于技能重修。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "301",
+              "Name": "天气瓶\"细雨\"",
+              "Price": "0",
+              "Type": "9",
+              "Round": "0",
+              "Description": "瓶内的液体似乎产生了化学反应，预示着一场细雨的到来。用于解锁主城场景“细雨绵绵”。",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "302",
+              "Name": "龙象刻漏",
+              "Price": "0",
+              "Type": "9",
+              "Round": "0",
+              "Description": "即将重置的刻漏昭示着新的开始。用于解锁主城场景“新春佳节”。",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "303",
+              "Name": "星空伞",
+              "Price": "0",
+              "Type": "9",
+              "Round": "0",
+              "Description": "撑开这把伞，可以看到一片新的天地。用于解锁主城场景“深海小镇”。",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "304",
+              "Name": "疯狂南瓜",
+              "Price": "0",
+              "Type": "9",
+              "Round": "0",
+              "Description": "带着这个南瓜头，开启万圣节的冒险吧。用于解锁主城场景“万圣惊魂”。",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "321",
+              "Name": "凤和凰鸣",
+              "Price": "0",
+              "Type": "9",
+              "Round": "0",
+              "Description": "一张古朴但做工讲究的古琴。用于解锁看板娘“凤求凰”。",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "322",
+              "Name": "灵力发饰",
+              "Price": "0",
+              "Type": "9",
+              "Round": "0",
+              "Description": "发饰上仍残留着主人强大的灵力。用于解锁看板娘“云宝·初”。",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "401",
+              "Name": "神木",
+              "Price": "0",
+              "Type": "10",
+              "Round": "0",
+              "Description": "尤克特拉希尔的枝干可不是一般的工匠可以驾驭的材料。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "402",
+              "Name": "精钢",
+              "Price": "0",
+              "Type": "10",
+              "Round": "0",
+              "Description": "矮人冶金技术的最完美体现，广泛应用于各种精良装备的铸造。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "403",
+              "Name": "星纱",
+              "Price": "0",
+              "Type": "10",
+              "Round": "0",
+              "Description": "精灵三宝之一，这种特殊的魔法植物纤维制作的材料备受经常使用魔法者的喜爱。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "404",
+              "Name": "月相水晶",
+              "Price": "0",
+              "Type": "10",
+              "Round": "0",
+              "Description": "精灵三宝之一，高明的精灵工匠很早便用其制作各种精妙的装备来充分利用月相的能量。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "405",
+              "Name": "幽冥魂晶",
+              "Price": "0",
+              "Type": "10",
+              "Round": "0",
+              "Description": "冥界与人间交叠地带的产物，某些特定的方法可以使使用者在人间利用冥界的力量。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "406",
+              "Name": "地魔龙鳞",
+              "Price": "0",
+              "Type": "10",
+              "Round": "0",
+              "Description": "坚固的鳞片对于物理和魔法冲击都有很好的防护作用。（请勿非法捕杀野生地魔龙。）",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "407",
+              "Name": "毒汁粘液",
+              "Price": "0",
+              "Type": "10",
+              "Round": "0",
+              "Description": "萃取于毒汁怪的毒汁，多用于装备淬毒和铸造时的辅料掺杂。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "408",
+              "Name": "贤者之石",
+              "Price": "0",
+              "Type": "10",
+              "Round": "0",
+              "Description": "由于至今也没有确切的标准制作方法，这种意外的产出仍是魔卡大陆最珍稀的宝物。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "409",
+              "Name": "圣泉之水",
+              "Price": "0",
+              "Type": "10",
+              "Round": "0",
+              "Description": "一切物质在浸泡过圣泉的水之后，性能都会有大幅的改良。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "410",
+              "Name": "恶魔之血",
+              "Price": "0",
+              "Type": "10",
+              "Round": "0",
+              "Description": "疯狂的战士会用这种被诅咒的鲜血用于装备铸造。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "411",
+              "Name": "奥法之尘",
+              "Price": "0",
+              "Type": "10",
+              "Round": "0",
+              "Description": "法术释放残留的能量，物质化形成的结晶。能在使用者施法时提供额外的奥术能量。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "412",
+              "Name": "秘银",
+              "Price": "0",
+              "Type": "10",
+              "Round": "0",
+              "Description": "精灵三宝之一，翡翠之林的独特矿藏，对于魔法能量能产生特殊的响应。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "413",
+              "Name": "燧石",
+              "Price": "0",
+              "Type": "10",
+              "Round": "0",
+              "Description": "产于火山附近的这种质密岩石，作为最原始的装备制作材料，被使用至今。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "414",
+              "Name": "缎布",
+              "Price": "0",
+              "Type": "10",
+              "Round": "0",
+              "Description": "这种人类独特的丝纺技术产物，在魔卡大陆备受好评。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "415",
+              "Name": "暗金",
+              "Price": "0",
+              "Type": "10",
+              "Round": "0",
+              "Description": "这种金质材料的暗沉色泽是因为其中掺杂各种魔能矿物，研究发现不同的掺杂似乎会带来不同的效果。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "416",
+              "Name": "飓风核心",
+              "Price": "0",
+              "Type": "10",
+              "Round": "0",
+              "Description": "非常稀有的装备材料，风属性装备特殊铸造工艺中的必需品。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "417",
+              "Name": "雷暴核心",
+              "Price": "0",
+              "Type": "10",
+              "Round": "0",
+              "Description": "非常稀有的装备材料，雷属性装备特殊铸造工艺中的必需品。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "418",
+              "Name": "冰结核心",
+              "Price": "0",
+              "Type": "10",
+              "Round": "0",
+              "Description": "非常稀有的装备材料，水属性装备特殊铸造工艺中的必需品。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "419",
+              "Name": "熔火核心",
+              "Price": "0",
+              "Type": "10",
+              "Round": "0",
+              "Description": "非常稀有的装备材料，火属性装备特殊铸造工艺中的必需品。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "420",
+              "Name": "岩土核心",
+              "Price": "0",
+              "Type": "10",
+              "Round": "0",
+              "Description": "非常稀有的装备材料，土属性装备特殊铸造工艺中的必需品。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "421",
+              "Name": "青龙核心",
+              "Price": "0",
+              "Type": "10",
+              "Round": "0",
+              "Description": "非常稀有的装备材料，青龙装备特殊铸造工艺中的必需品。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "422",
+              "Name": "白虎核心",
+              "Price": "0",
+              "Type": "10",
+              "Round": "0",
+              "Description": "非常稀有的装备材料，白虎装备特殊铸造工艺中的必需品。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "423",
+              "Name": "朱雀核心",
+              "Price": "0",
+              "Type": "10",
+              "Round": "0",
+              "Description": "非常稀有的装备材料，朱雀装备特殊铸造工艺中的必需品。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "424",
+              "Name": "玄武核心",
+              "Price": "0",
+              "Type": "10",
+              "Round": "0",
+              "Description": "非常稀有的装备材料，玄武装备特殊铸造工艺中的必需品。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "425",
+              "Name": "麒麟核心",
+              "Price": "0",
+              "Type": "10",
+              "Round": "0",
+              "Description": "非常稀有的装备材料，麒麟装备特殊铸造工艺中的必需品。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "501",
+              "Name": "兽骨",
+              "Price": "0",
+              "Type": "11",
+              "Round": "0",
+              "Description": "兽的骸骨，深得兽人的喜爱，可以在兽人商店兑换积分奖励。",
+              "MaxNum": "9999"
+          },
+          {
+              "PropId": "502",
+              "Name": "兽牙",
+              "Price": "0",
+              "Type": "11",
+              "Round": "0",
+              "Description": "猛兽的獠牙，比兽骨更加珍稀，可以在兽人商店兑换积分奖励。",
+              "MaxNum": "9999"
+          },
+          {
+              "PropId": "503",
+              "Name": "招财猫",
+              "Price": "0",
+              "Type": "11",
+              "Round": "0",
+              "Description": "可爱的招财猫。充值一定晶钻即可获得。",
+              "MaxNum": "999999"
+          },
+          {
+              "PropId": "504",
+              "Name": "金元宝",
+              "Price": "0",
+              "Type": "11",
+              "Round": "0",
+              "Description": "亮闪闪的元宝。消费一定晶钻即可获得。",
+              "MaxNum": "999999"
+          },
+          {
+              "PropId": "505",
+              "Name": "锦鲤",
+              "Price": "0",
+              "Type": "11",
+              "Round": "0",
+              "Description": "活泼的锦鲤。在商城消费一定晶钻即可获得。",
+              "MaxNum": "999999"
+          },
+          {
+              "PropId": "506",
+              "Name": "如意结",
+              "Price": "0",
+              "Type": "11",
+              "Round": "0",
+              "Description": "崭新的如意结。观看广告即可获得。",
+              "MaxNum": "999999"
+          },
+          {
+              "PropId": "507",
+              "Name": "虹映宝石",
+              "Price": "0",
+              "Type": "11",
+              "Round": "0",
+              "Description": "在这片大地上极其稀有且拥有未知强大力量的存在，传说与禁忌秘术来自同一个源头。",
+              "MaxNum": "999999"
+          },
+          {
+              "PropId": "601",
+              "Name": "王国羁绊石",
+              "Price": "0",
+              "Type": "13",
+              "Round": "0",
+              "Description": "王族世代相传的秘宝。可用于建立灵魂羁绊。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "602",
+              "Name": "森林羁绊石",
+              "Price": "0",
+              "Type": "13",
+              "Round": "0",
+              "Description": "密林中难能一见的珍贵水晶。可用于建立灵魂羁绊。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "603",
+              "Name": "蛮荒羁绊石",
+              "Price": "0",
+              "Type": "13",
+              "Round": "0",
+              "Description": "由地脉孕育而出的结晶。可用于建立灵魂羁绊。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "604",
+              "Name": "地狱羁绊石",
+              "Price": "0",
+              "Type": "13",
+              "Round": "0",
+              "Description": "产自炎狱山的奇特矿石。可用于建立灵魂羁绊。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "605",
+              "Name": "魔族羁绊石",
+              "Price": "0",
+              "Type": "13",
+              "Round": "0",
+              "Description": "幻界游荡的灵魄实体化而成的瑰宝。可用于建立灵魂羁绊。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "606",
+              "Name": "神族羁绊石",
+              "Price": "0",
+              "Type": "13",
+              "Round": "0",
+              "Description": "天国中偶然飘散的气息凝聚而成的晶石。可用于建立灵魂羁绊。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "701",
+              "Name": "信仰之奉",
+              "Price": "0",
+              "Type": "13",
+              "Round": "0",
+              "Description": "抱持虔诚的信念向神明供奉此物，可以获得神秘的恩赐。可用于激活神赐恩泽。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "702",
+              "Name": "愚者之印",
+              "Price": "0",
+              "Type": "13",
+              "Round": "0",
+              "Description": "离经叛道者，终将坠入深渊。可用于改变阵营。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "9527",
+              "Name": "帝国之绝凶虎",
+              "Price": "0",
+              "Type": "99",
+              "Round": "0",
+              "Description": "红烧鸡翅膀，我最喜欢吃！",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "9901",
+              "Name": "装备材料箱",
+              "Price": "0",
+              "Type": "99",
+              "Round": "0",
+              "Description": "打开箱子将会随机获得神木、精钢、星沙、月相水晶、幽冥魂晶、地魔龙鳞、毒汁粘液、贤者之石、圣泉之水、恶魔之血、奥法之尘、秘银、燧石、缎布以及暗金中的一种。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "9902",
+              "Name": "二维素材箱",
+              "Price": "0",
+              "Type": "99",
+              "Round": "0",
+              "Description": "打开箱子将会随机获得荧光芯片、迷迭唇彩、璀璨星沙、无垢十字章、华贵玉玺、永恒斗志结晶、永恒生命结晶等卡牌二维提升材料中的一种。",
+              "MaxNum": "999"
+          },
+          {
+              "PropId": "10001",
+              "Name": "至死不渝",
+              "Price": "600",
+              "Type": "12",
+              "Round": "1",
+              "Description": "众神之王后的皇冠，象征着忠贞不渝的爱情和至高的权力",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10002",
+              "Name": "丘比特之箭",
+              "Price": "600",
+              "Type": "12",
+              "Round": "1",
+              "Description": "带着爱神丘比特神力的箭矢，金箭带来永恒的爱情，铅箭带来转瞬即逝的激情",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10003",
+              "Name": "晨曦",
+              "Price": "600",
+              "Type": "12",
+              "Round": "1",
+              "Description": "正义女神的武器之一，“我的剑，会刺破所有阴霾，让晨曦照耀在每一处”",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10004",
+              "Name": "审判",
+              "Price": "300",
+              "Type": "12",
+              "Round": "1",
+              "Description": "法律女神的法典，可以对人进行判决，“法律，不容触碰”",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10005",
+              "Name": "祝福",
+              "Price": "400",
+              "Type": "12",
+              "Round": "1",
+              "Description": "祈祷女神的施法道具，“将我的祝福送给世人”",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10006",
+              "Name": "命运",
+              "Price": "400",
+              "Type": "12",
+              "Round": "1",
+              "Description": "命运女神的施法道具，“我好像看到了什么”",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10007",
+              "Name": "战神剑",
+              "Price": "200",
+              "Type": "12",
+              "Round": "1",
+              "Description": "战神阿瑞斯的随身武器，陪伴他征战多年",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10008",
+              "Name": "波塞冬三叉戟",
+              "Price": "400",
+              "Type": "12",
+              "Round": "1",
+              "Description": "海神波塞冬的武器，拥有者在海中有至高权力",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10009",
+              "Name": "好运",
+              "Price": "300",
+              "Type": "12",
+              "Round": "1",
+              "Description": "幸运女神将她的神力附在硬币上赐给她的信徒",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10010",
+              "Name": "紫星",
+              "Price": "500",
+              "Type": "12",
+              "Round": "1",
+              "Description": "节日之神蕴藏多年的葡萄酒，酒液晶莹宛若星辰，酒香醇厚",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10011",
+              "Name": "祈祷圣杯",
+              "Price": "600",
+              "Type": "12",
+              "Round": "1",
+              "Description": "祈祷女神将自己的神力注入圣杯中，让信徒可以利用其中神力治疗疾病",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10012",
+              "Name": "命运之骰",
+              "Price": "300",
+              "Type": "12",
+              "Round": "1",
+              "Description": "命运女神的无聊制品，摇出不同的点数会触发不同的事件",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10013",
+              "Name": "忘尘",
+              "Price": "200",
+              "Type": "12",
+              "Round": "1",
+              "Description": "遗忘之河Lethe的河水，能让人忘记前尘往事",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10014",
+              "Name": "入梦",
+              "Price": "200",
+              "Type": "12",
+              "Round": "1",
+              "Description": "能够催眠他人，有过诛灭百眼巨人的光辉战绩",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10015",
+              "Name": "俄里翁之弓",
+              "Price": "400",
+              "Type": "12",
+              "Round": "1",
+              "Description": "著名猎人俄里翁的武器，箭无虚发",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10016",
+              "Name": "悲悯之泪",
+              "Price": "400",
+              "Type": "12",
+              "Round": "1",
+              "Description": "悲悯之神看见人间疾苦时流下的泪水，能激发人的同理心",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10017",
+              "Name": "传音螺",
+              "Price": "600",
+              "Type": "12",
+              "Round": "1",
+              "Description": "海之信使之间传递信息的道具",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10018",
+              "Name": "巫师结晶",
+              "Price": "600",
+              "Type": "12",
+              "Round": "1",
+              "Description": "被众神之主打入大海的邪恶巫师的魔力凝聚而成，是很好的魔力源泉",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10019",
+              "Name": "生命树叶",
+              "Price": "600",
+              "Type": "12",
+              "Round": "1",
+              "Description": "命运女神从世界树上摘下的树叶，有复活功效",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10020",
+              "Name": "阿伽门农之剑",
+              "Price": "300",
+              "Type": "12",
+              "Round": "1",
+              "Description": "统帅阿伽门农的配剑",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10021",
+              "Name": "人鱼之声",
+              "Price": "300",
+              "Type": "12",
+              "Round": "1",
+              "Description": "内含邪恶海仙女的歌声，会使人迷失自己",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10022",
+              "Name": "拉奥孔之祈",
+              "Price": "500",
+              "Type": "12",
+              "Round": "1",
+              "Description": "阿波罗祭司拉奥孔的施法道具，能够预知未来",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10023",
+              "Name": "堤丰之血",
+              "Price": "600",
+              "Type": "12",
+              "Round": "1",
+              "Description": "万妖之祖堤丰的血液，内蕴巨大威能",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10024",
+              "Name": "涅柔斯的礼物",
+              "Price": "300",
+              "Type": "12",
+              "Round": "1",
+              "Description": "海之老人涅柔斯送给有缘人的礼物，会给他带来好运",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10025",
+              "Name": "勇士之矛",
+              "Price": "400",
+              "Type": "12",
+              "Round": "1",
+              "Description": "英雄阿革洛斯狩猎恶兽卡吕冬野猪时的武器，锋利无比",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10026",
+              "Name": "神祈月桂叶",
+              "Price": "400",
+              "Type": "12",
+              "Round": "1",
+              "Description": "被光明之神阿波罗祝福过的月桂树的树叶，有净化效果",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10027",
+              "Name": "月珊瑚",
+              "Price": "200",
+              "Type": "12",
+              "Round": "1",
+              "Description": "产生于月亮女神停留过的珊瑚礁，有净化功能",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10028",
+              "Name": "斯芬克斯之灵",
+              "Price": "400",
+              "Type": "12",
+              "Round": "1",
+              "Description": "捏碎可召唤斯芬克斯投影",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10029",
+              "Name": "塞勒涅之镯",
+              "Price": "200",
+              "Type": "12",
+              "Round": "1",
+              "Description": "月女神塞勒涅为自己钟爱的英雄恩底弥翁制作的一个手镯，有庇护功能",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10030",
+              "Name": "蓝色水晶球",
+              "Price": "200",
+              "Type": "12",
+              "Round": "1",
+              "Description": "著名女先知占卜时所用道具，“告诉我，你看到了什么”",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10031",
+              "Name": "蔚蓝钻石",
+              "Price": "400",
+              "Type": "12",
+              "Round": "1",
+              "Description": "从深海之中挖出的神奇晶体，可以容纳魔力",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10032",
+              "Name": "爱之契约",
+              "Price": "400",
+              "Type": "12",
+              "Round": "1",
+              "Description": "阿尔刻提斯与丈夫爱情的见证，被宣誓之神赋予神力",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10033",
+              "Name": "死亡",
+              "Price": "600",
+              "Type": "12",
+              "Round": "2",
+              "Description": "死神的武器，“死亡在召唤”",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10034",
+              "Name": "创造",
+              "Price": "600",
+              "Type": "12",
+              "Round": "2",
+              "Description": "工匠之神的武器，工匠之神用它打造出了许多神兵利器",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10035",
+              "Name": "盖亚之矛",
+              "Price": "600",
+              "Type": "12",
+              "Round": "2",
+              "Description": "大地女神盖亚的武器，威力巨大",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10036",
+              "Name": "铁床斧",
+              "Price": "300",
+              "Type": "12",
+              "Round": "2",
+              "Description": "著名强盗“铁床贼”的武器，饮血无数",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10037",
+              "Name": "酒神杖",
+              "Price": "400",
+              "Type": "12",
+              "Round": "2",
+              "Description": "庆典之神的随身武器，能让人迷醉也能让人痛苦",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10038",
+              "Name": "扳松刃",
+              "Price": "400",
+              "Type": "12",
+              "Round": "2",
+              "Description": "著名强盗“扳松贼”的武器，饮血无数",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10039",
+              "Name": "阿克琉斯之矛",
+              "Price": "200",
+              "Type": "12",
+              "Round": "2",
+              "Description": "人马之王喀戎的馈赠，在战争中大放光彩",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10040",
+              "Name": "心眼",
+              "Price": "400",
+              "Type": "12",
+              "Round": "2",
+              "Description": "忒拜先知为自己打造的法杖，能够感知周围事物",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10041",
+              "Name": "东风",
+              "Price": "300",
+              "Type": "12",
+              "Round": "2",
+              "Description": "利用圣山上圣鸟羽毛制成，神域传令官用它向人间传递神谕",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10042",
+              "Name": "衡",
+              "Price": "500",
+              "Type": "12",
+              "Round": "2",
+              "Description": "正义女神的武器之一，“世间万物，皆有度量”",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10043",
+              "Name": "魔琴",
+              "Price": "600",
+              "Type": "12",
+              "Round": "2",
+              "Description": "众神之主的儿子安菲翁的武器，支撑其建成了宫殿",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10044",
+              "Name": "神之守护",
+              "Price": "300",
+              "Type": "12",
+              "Round": "2",
+              "Description": "匠神为英雄阿克琉斯打造的铠甲，防御性能优秀",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10045",
+              "Name": "特洛伊木马",
+              "Price": "200",
+              "Type": "12",
+              "Round": "2",
+              "Description": "攻陷特洛伊城的制胜道具",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10046",
+              "Name": "曜",
+              "Price": "200",
+              "Type": "12",
+              "Round": "2",
+              "Description": "众神之主的王座，至高权力的象征",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10047",
+              "Name": "夜",
+              "Price": "400",
+              "Type": "12",
+              "Round": "2",
+              "Description": "冥神哈迪斯的大衣，掩藏着哈迪斯的面貌，神秘的象征",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10048",
+              "Name": "醉生梦死",
+              "Price": "400",
+              "Type": "12",
+              "Round": "2",
+              "Description": "附着梦神一丝神力，可令使用者快速入睡做梦",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10049",
+              "Name": "恐惧之刃",
+              "Price": "600",
+              "Type": "12",
+              "Round": "3",
+              "Description": "恐惧之神凝聚怨气制成的一把刀，威力巨大",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10050",
+              "Name": "月华",
+              "Price": "600",
+              "Type": "12",
+              "Round": "3",
+              "Description": "月亮女神集大量月之华凝聚而成的吊坠，随身佩戴静心，还能净化邪恶",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10051",
+              "Name": "契",
+              "Price": "600",
+              "Type": "12",
+              "Round": "3",
+              "Description": "宣誓之神打造的一本书籍，记录在上面的誓言都不允许被打破，“契约正式成立！”",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10052",
+              "Name": "海灵",
+              "Price": "300",
+              "Type": "12",
+              "Round": "3",
+              "Description": "渔人之神的武器，能在一定程度上改变海上气候",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10053",
+              "Name": "胜利勋章",
+              "Price": "400",
+              "Type": "12",
+              "Round": "3",
+              "Description": "胜利女神给予勇者的勋章，对佩戴者的士气战斗力都有所提升",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10054",
+              "Name": "拉冬之泪",
+              "Price": "400",
+              "Type": "12",
+              "Round": "3",
+              "Description": "将看守金苹果树的百头巨龙的眼泪放入容器经加工制成的项链",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10055",
+              "Name": "玄",
+              "Price": "200",
+              "Type": "12",
+              "Round": "3",
+              "Description": "冥王哈迪斯的钥匙，听说能打开他的宝库",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10056",
+              "Name": "千面",
+              "Price": "400",
+              "Type": "12",
+              "Round": "3",
+              "Description": "欺骗女神的信徒用以伪装欺骗他人的道具",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10057",
+              "Name": "时光",
+              "Price": "300",
+              "Type": "12",
+              "Round": "3",
+              "Description": "蕴含时间之神的神力，有神秘莫测的威能",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10058",
+              "Name": "冥王戒",
+              "Price": "500",
+              "Type": "12",
+              "Round": "3",
+              "Description": "冥王给忠实信徒的馈赠，可以召唤出冥王哈迪斯的投影来战斗",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10059",
+              "Name": "智慧",
+              "Price": "600",
+              "Type": "12",
+              "Round": "3",
+              "Description": "战争女神雅典娜托匠神打造的盾牌，“战争，可不是只有武力就行了”",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10060",
+              "Name": "幻",
+              "Price": "300",
+              "Type": "12",
+              "Round": "3",
+              "Description": "以珍贵的蜃气为主材打造成的法杖，梦幻之神的武器，可牵扯人进幻境",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10061",
+              "Name": "恋",
+              "Price": "400",
+              "Type": "12",
+              "Round": "3",
+              "Description": "爱神随身物品，能给予相爱的人祝福，作为爱情的见证",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10062",
+              "Name": "文明",
+              "Price": "400",
+              "Type": "12",
+              "Round": "3",
+              "Description": "记载了第一次众神之战的过程，无法被摧毁",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10063",
+              "Name": "潘多拉魔盒",
+              "Price": "400",
+              "Type": "12",
+              "Round": "3",
+              "Description": "潘多拉的盒子，打开会有不详的事情发生",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10064",
+              "Name": "冥船",
+              "Price": "400",
+              "Type": "12",
+              "Round": "3",
+              "Description": "冥王哈迪斯的船夫卡戎，乘着冥船，将死者渡过冥河",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10065",
+              "Name": "埃俄罗斯之旗",
+              "Price": "600",
+              "Type": "12",
+              "Round": "4",
+              "Description": "众神之友，掌管诸风的埃俄罗斯的武器，可调整风的行动",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10066",
+              "Name": "珀涅罗珀护身符",
+              "Price": "600",
+              "Type": "12",
+              "Round": "4",
+              "Description": "珀涅罗珀送给将远征的丈夫的护身符，有一定的庇护效果",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10067",
+              "Name": "巨人之握",
+              "Price": "600",
+              "Type": "12",
+              "Round": "4",
+              "Description": "癸干忒斯族著名工匠阿尔格斯的作品，有力量加成功效",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10068",
+              "Name": "曼托之约",
+              "Price": "300",
+              "Type": "12",
+              "Round": "4",
+              "Description": "预言家曼托的施法道具，能够加快魔力凝聚",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10069",
+              "Name": "女妖之怒",
+              "Price": "300",
+              "Type": "12",
+              "Round": "4",
+              "Description": "生活在原始海域的女妖将自己的魔力注入号角制成，吹响时使人陷入混乱",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10070",
+              "Name": "皮俄斯的医疗箱",
+              "Price": "500",
+              "Type": "12",
+              "Round": "4",
+              "Description": "天医阿斯克勒皮俄斯随身携带的医疗箱，内含多种药物，能够治愈大部分病症",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10071",
+              "Name": "骑士之盾",
+              "Price": "600",
+              "Type": "12",
+              "Round": "4",
+              "Description": "英雄安提罗克斯的盾牌，刀枪不入",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10072",
+              "Name": "日华宝珠",
+              "Price": "300",
+              "Type": "12",
+              "Round": "4",
+              "Description": "汲取日光能量制成，提高佩戴者的战斗续航能力（红色）",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10073",
+              "Name": "弥诺陶洛斯石像",
+              "Price": "400",
+              "Type": "12",
+              "Round": "4",
+              "Description": "石像内含克里特岛的牛头怪的一丝灵魂，对儿童有震慑作用",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10074",
+              "Name": "斯库拉法衣",
+              "Price": "400",
+              "Type": "12",
+              "Round": "4",
+              "Description": "由海妖斯库拉身上材料加工而成，水火不侵，有一定防护能力",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10075",
+              "Name": "泰坦宝珠",
+              "Price": "200",
+              "Type": "12",
+              "Round": "4",
+              "Description": "泰坦神族将神力注入宝珠制成，在打造时能使佩戴者思绪活跃",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10076",
+              "Name": "藤甲",
+              "Price": "400",
+              "Type": "12",
+              "Round": "4",
+              "Description": "战争中将士们的装备之一，附着战神阿瑞斯的轻微神力",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10077",
+              "Name": "英雄史诗",
+              "Price": "600",
+              "Type": "12",
+              "Round": "4",
+              "Description": "记载着英雄事迹的一本书籍，附着时间之神的轻微神力",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10078",
+              "Name": "月华宝珠",
+              "Price": "400",
+              "Type": "12",
+              "Round": "4",
+              "Description": "汲取月光能量制成，能使佩戴者思维冷静（白色）",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10079",
+              "Name": "月华长袍",
+              "Price": "700",
+              "Type": "12",
+              "Round": "4",
+              "Description": "魔法师从月光中收取能量打造而成，能加快魔力凝聚",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10080",
+              "Name": "战士头盔",
+              "Price": "400",
+              "Type": "12",
+              "Round": "4",
+              "Description": "战争中将士们的装备之一，附着战神阿瑞斯的轻微神力",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10081",
+              "Name": "魔蛋",
+              "Price": "400",
+              "Type": "12",
+              "Round": "5",
+              "Description": "表面覆盖着坚硬的麟羽，似乎是某个已经灭绝生物的蛋",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10082",
+              "Name": "提灯",
+              "Price": "400",
+              "Type": "12",
+              "Round": "5",
+              "Description": "灯内虽然闪烁着光，但是却让人不知应走往何处",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10083",
+              "Name": "冥王传",
+              "Price": "600",
+              "Type": "12",
+              "Round": "5",
+              "Description": "记录着这个世界的智慧与魔法，似乎还隐藏着什么禁忌之物",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10084",
+              "Name": "诅咒魔杖",
+              "Price": "400",
+              "Type": "12",
+              "Round": "5",
+              "Description": "诅咒女神的武器，能施放多种大型诅咒系法术",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10085",
+              "Name": "伽蓝的泪滴",
+              "Price": "600",
+              "Type": "12",
+              "Round": "5",
+              "Description": "在僧众共住的园林中偶然被发现",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10086",
+              "Name": "伽蓝之心",
+              "Price": "600",
+              "Type": "12",
+              "Round": "5",
+              "Description": "伽蓝神对拥护佛法的忠诚信徒的奖赏之一",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10087",
+              "Name": "冰雪之心",
+              "Price": "600",
+              "Type": "12",
+              "Round": "5",
+              "Description": "“他走了，带走了一切温暖，从此这里再无生机”",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10088",
+              "Name": "美杜莎的凝视",
+              "Price": "600",
+              "Type": "12",
+              "Round": "5",
+              "Description": "美杜莎女王将自己的力量注入到石像的双眸中，使得其同样拥有石化人的能力",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10089",
+              "Name": "厄运女神的垂青",
+              "Price": "400",
+              "Type": "12",
+              "Round": "5",
+              "Description": "这是厄运女神的馈赠，佩戴者会厄运连连",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10090",
+              "Name": "月珠",
+              "Price": "600",
+              "Type": "12",
+              "Round": "5",
+              "Description": "月亮女神的另一串项链，相传只会在她祈祷的时候佩戴",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10091",
+              "Name": "宫廷圣典",
+              "Price": "400",
+              "Type": "12",
+              "Round": "5",
+              "Description": "王城中的一部圣典，极少数人能有机会窥其一二",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10092",
+              "Name": "克里特迷宫",
+              "Price": "700",
+              "Type": "12",
+              "Round": "5",
+              "Description": "软禁牛头怪米诺陶诺斯的迷宫",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10093",
+              "Name": "缪斯的青睐",
+              "Price": "600",
+              "Type": "12",
+              "Round": "5",
+              "Description": "一个画家画的缪斯女神的画被缪斯女神发现，并赋予了一丝神力",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10094",
+              "Name": "智慧火炬",
+              "Price": "400",
+              "Type": "12",
+              "Round": "5",
+              "Description": "先见之神普罗米修斯为人类带来的火，将永远地传承下去",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10095",
+              "Name": "赫拉克勒斯之弓",
+              "Price": "700",
+              "Type": "12",
+              "Round": "5",
+              "Description": "空气与猎人之神的武器，箭无虚发",
+              "MaxNum": "1"
+          },
+          {
+              "PropId": "10096",
+              "Name": "罪罚",
+              "Price": "400",
+              "Type": "12",
+              "Round": "5",
+              "Description": "冥界判官米诺斯的法典，“你，有罪！”",
+              "MaxNum": "1"
+          }
+      ]
+  },
+  "version": {
+      "http": "1643100803",
+      "stop": "",
+      "appversion": "version_1",
+      "appurl": "ios://xxx"
+  }
+}

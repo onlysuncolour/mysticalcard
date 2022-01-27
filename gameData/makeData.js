@@ -1,6 +1,6 @@
 const {writeFile} = require('../utils/writeFile')
 
-const type = 'card'
+const type = 'prop'
 const skillData = require('./fulldata/skill.json')    
 let fullData, _myData
 switch (type) {
@@ -15,6 +15,10 @@ switch (type) {
   case 'rune':
     fullData = require('./fulldata/rune.json')    
     _myData = require('./mydata_o/rune.json')    
+    break;
+  case 'prop':
+    fullData = require('./fulldata/prop.json')    
+    _myData = require('./mydata_o/prop.json')    
     break;
   default:
     break;
@@ -63,4 +67,30 @@ if (type === 'contract') {
   writeFile(`gameData/mydata/${type}.json`, JSON.stringify(myData))
 }
 
-
+if (type === 'prop') {
+  const propTypes = {};
+  fullData.data.Props.forEach(p => {
+    propTypes[p.PropId] = p;
+  });
+  const myProps = _myData.data.Props;
+  const TYPES = {
+    "5": "超洗材料",
+    "99": "99",
+    "7": "二维提升材料",
+    "8": "契约材料",
+    "10": "装备材料",
+    "11": "活动道具",
+    "13": "灵魂羁绊材料",
+  }
+  const myData = {};
+  myProps.forEach(p => {
+    if (!TYPES[p.Type]) {
+      return;
+    }
+    let pt = propTypes[p.PropId];
+    let type = TYPES[p.Type]
+    myData[type] = [...(myData[type]||[]), 
+    `${pt.Name} - ${p.Cnt}`]
+  })
+  writeFile(`gameData/mydata/${type}.json`, JSON.stringify(myData))
+}
