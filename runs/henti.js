@@ -1,7 +1,7 @@
 const {httpPost} = require('../utils/httpPost')
 const {hData, hTime, hToken, hDevice} = require('../hentiOptions.json')
 
-const datas = Array.from({length: 100}).fill(hData);
+const datas = Array.from({length: 120}).fill(hData);
 const options = {
   method: 'POST',
   host: "hkgame.tsstudio2020.com",
