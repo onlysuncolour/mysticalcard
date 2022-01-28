@@ -16,7 +16,8 @@
     "explore": "node ./runs/explore.js",
     "med": "node ./medition/test.js",
     "loadData": "node ./gameData/loadData.js",
-    "makeData": "node ./gameData/makeData.js"
+    "makeData": "node ./gameData/makeData.js",
+    "henti": "node ./runs/henti.js"
   },
   "repository": {
     "type": "git",
