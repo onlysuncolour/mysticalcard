@@ -16,7 +16,7 @@ const {
 } = require('../basicOptions.json')
 
 
-const datas = Array.from({length: shuatuRound}).fill(shuatu_17_11)
+const datas = Array.from({length: shuatuRound}).fill(shuatu_18_11)
 
 const options = {
   host: host,
@@ -49,7 +49,7 @@ const run = () => {
     if (shuatuTotalRound) {
       tili().then(run)
     } else {
-      if (resps.some(r => r < 90)) {
+      if (resps.some(r => r <= 143)) {
       // if (resps.some(r => r < 1000)) {
         return;
       }

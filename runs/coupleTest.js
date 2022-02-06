@@ -1,15 +1,16 @@
 const {httpPost} = require('../utils/httpPost')
 const {host, Cookie} = require('../basicOptions.json')
 
+
 const datas = 
 [
   [
     "/collectCard.php",
-    "z=86bq77ksjrmkreNodjrFqwzAQht9FEC9tjE6yZKmgIZhAsyRDaYcuxZHUWNSRhWzcJqXv3rNvOPi%2b%2fzj%2bX3K9jxfyRNxg9j%2b2a%2bPFv3yFvi9moyvNi9SlZHbR5SG4BXrz%2fvzRHIs0W1OVqqQlCK0q5LNhlMEW2JaxB6g3vAXAxWTho823NBn9qQA0WGolSKjPDJQSVDlfO2W1kuSR7OwU5jDdDg47cQoa3evoc9NmtzrgtRCSURyM1qpH%2f42BFBVHk%2baE%2fObzGIa43KM7JR%2bXB00X0qr%2b%2fgFT40dT&b=b21e6d09b9791cba55ede6a2aeceaa8b"
+    "z=1obmf75mqfgezeNodjkFLxDAUhP9LwF50S16SNm%2bFHJayoJf1IHrwIrFJtsFuGtISXcX%2fbtp3GJhvhsf8ksvPfCb3xEzq%2bN0POpzt86cfxyorAYxXcYhRHYJJkzerGdXbw3t3qmLulaixhhrarZc%2fFKOM7SjsqLwFvOGaryJoZUOfrnFR0hnUSJ0DsCioY1TuZbsHpKAdiobckUO%2f%2bOyX66MpmziVrLCX2aZOJ7MxENgwbGi5Em1TT%2farBNi0vJCYY%2fGvNs1%2bCmu%2fsKdow%2fqgG3zc0N8%2fYmlHcQ%3d%3d&b=ed3b6de88b38e16a699709e711339507"
   ],
   [
     "/cardExchange.php",
-    "z=8uzsq6kba3xceNodzsGKwjAUheF3CdiNWpJrbW%2bFLKQIzkZ3s3AjNTdtA5pc2lJ1xHc34%2bbA96%2fOS9z%2bhlZsBAW9e5iu9q1NJl1miAl3zHrrqQ%2bO%2fnHVp%2f25OiQ8GZ2lmMpUrUvMoi8aJKilgiXAXBWzVa1UHMgT603%2f5FFbA4aQmlxaAqDVJUeJSLbIVF3KJhcLsTWjm9z4%2fKF4p1hjTG0INHwNUTzxwd5%2fbT%2b44GNTsR3Z%2bqruqeocf9P7AwMxPmA%3d&b=409c339f6bf9c9d0dbdf1d4cea0e7904"
+    "z=y2vgo12eNodzsuqwjAUheF3CZxOPJa900uqkIEUQSc6c%2bBEcqMNnJNs2lJv%2bO5GJwu%2bf7Se7P8xdmzNbJTbm%2blV6Fw2yxJ5nVFPJDfBDtHbD%2f7keXdpDxnNRpZ5k2OONfIiWUsOnC8BlyAW2PwUqvhMCZkLZrjTJCutYAUCsQauhShhxetGayNspSxWwH7Zxkx%2b9tN9b9Md0RQpdTHa8WueRDMd3PXkhtHHkBqmdiQXWjXYtvf0Ta83isg9Qg%3d%3d&b=824a418b5e9539f3de3cd891ae1cb692"
   ],
 ]
 
