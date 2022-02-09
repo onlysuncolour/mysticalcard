@@ -1,6 +1,6 @@
 const {writeFile} = require('../utils/writeFile')
 
-const type = 'contract'
+const type = 'card'
 const skillData = require('./fulldata/skill.json')    
 let fullData, _myData
 switch (type) {
