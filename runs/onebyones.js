@@ -40,7 +40,12 @@ const runRound = () => {
         options.headers['Content-Length'] = Buffer.byteLength(d)
         promises.push(httpPost(options, d, i))
       })
-      Promise.allSettled(promises).then(runRound)
+      Promise.allSettled(promises).then(res => {
+        if (res.some(r => r > 0 && r < 100)) {
+          return;
+        }
+        runRound()
+      })
     }, 200
   )
 }

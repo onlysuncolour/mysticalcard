@@ -16,9 +16,7 @@
     "explore": "node ./runs/explore.js",
     "med": "node ./medition/test.js",
     "loadData": "node ./gameData/loadData.js",
-    "makeData": "node ./gameData/makeData.js",
-    "henti": "node ./runs/henti.js",
-    "hentin": "node ./runs/henti-new.js"
+    "makeData": "node ./gameData/makeData.js"
   },
   "repository": {
     "type": "git",

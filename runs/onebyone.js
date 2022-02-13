@@ -32,7 +32,13 @@ const runRound = () => {
     return
   }
   setTimeout(
-    () => httpPost(options, data, n).then(runRound, runRound), 200
+    () => httpPost(options, data, n)
+      .then(res => {
+        if (res < 100) {
+          return;
+        }
+        runRound()
+      }, runRound), 200
   )
 }
 
