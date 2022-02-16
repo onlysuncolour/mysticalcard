@@ -2,7 +2,7 @@ const {httpGet} = require('../utils/httpGet')
 const {writeFile} = require('../utils/writeFile')
 
 let page =1, max, result = [],
-  type="contract" // card , skill , contract , rune 
+  type="card" // card , skill , contract , rune 
 let makeUrl = (_page = page, _type=type) => {
   return `https://wiki.mysticalcard.com/mysticalcard/v2/data/indices/?keyword=&server=x&type=${_type}&page=${_page}`
 }
@@ -24,7 +24,7 @@ httpGet(makeUrl()).then(data => {
     promises.push(httpGet(makeUrl(page), page - 1))
   }
   Promise.all(promises).then(datas => {
-    datas.forEach(d => pushDatas(d))
+    datas.forEach(d => result.push(...pushDatas(d)))
     writeFile(`gameData/fulldata/${type}.json`, JSON.stringify(result))
   })
 })

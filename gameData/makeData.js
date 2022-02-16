@@ -1,6 +1,7 @@
+const fs = require('fs')
 const {writeFile} = require('../utils/writeFile')
 
-const type = 'card'
+const type = 'soulFetter' // card contract rune prop soulFetter
 const skillData = require('./fulldata/skill.json')    
 let fullData, _myData
 switch (type) {
@@ -33,7 +34,11 @@ if (type === 'card') {
     const _card = {
       id: oCard?.id,
       name: oCard?.name,
-      SkillNew: skillNew?.name
+      SkillNew: skillNew?.name,
+      soulFetters: card.isSoulFetters == 2,
+      avilSoulFetters: card.isSoulFetters == 1,
+      AtkLevel: card.AtkLevel,
+      HpLevel: card.HpLevel,
     }
     let result = oCard?.name
     if (skillNew?.name) result += ` - ${skillNew?.name}`
@@ -41,6 +46,18 @@ if (type === 'card') {
       result += ` ${card.AwakingLevel}破`
       _card.AwakingLevel = card.AwakingLevel
     }
+    if (_card.AtkLevel) {
+      result += ` 攻击-lv.${_card.AtkLevel}`
+    }
+    if (_card.HpLevel) {
+      result += ` 生命-lv.${_card.HpLevel}`
+    }
+    if (_card.soulFetters) {
+      result += ` 灵魂羁绊`
+    } else if (_card.avilSoulFetters) {
+      result += ` 【未开羁绊】`
+    }
+
     _card.result = result
     return _card;
   }).filter(c => !!c.id).sort((a, b) => b.id - a.id).map(c => c.result);
@@ -93,4 +110,19 @@ if (type === 'prop') {
     `${pt.Name} - ${p.Cnt}${pt.MaxNum && '/'+pt.MaxNum}`]
   })
   writeFile(`gameData/mydata/${type}.json`, JSON.stringify(myData))
+}
+if (type === 'soulFetter') {
+  fs.readFile('gameData/fulldata/soulFetters.txt', (err, fileData) => {
+    if (err) {
+      console.log("出错啦！！！", err);
+      return;
+    }
+    const fetters = fileData.toString().split('\n');
+    const result = {};
+    fetters.forEach(f => {
+      let d = f.split(' ');
+      result[d[0]] = [d[1], d[2], d[3]]
+    })
+    writeFile(`gameData/mydata/${type}.json`, JSON.stringify(result))
+  })
 }

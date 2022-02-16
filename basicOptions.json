@@ -43,12 +43,17 @@
 
   "shuatuRound": 35,
   "shuatuTotalRound": 0,
-
-  "魔幻卡10": "z=751a34kbfaeNo9jsGKwjAURf8lYDejJS%2bpmg5kMXahbnQjLtxIkhdsYZo8Wq2o%2bO9GEDeXew5cuA%2fW3vsT%2b2UY9eJyywZd8kJlVBPpv4BdbPAN%2f%2fqwOlabjAani1zlkMMMhExsteBCTDhM%2bPwH1Ega%2bY6CZz647kZnXRZTb0q0liujnHMzgQAonTXGOvCGjdkyRuzXmG7IRFXdUKqQ6s6HXdP6fmHOrv44Gmjjr3vf9U0MH7clHyrT4Xf6fAFrV0BV&b=be547b602becb1520c73189a1a070763",
   
+  "蜡烛Cookie": "9dvnikt4ofrs9dfo0je6vm7gi0",
+  "遗忘Cookie": "eklgb1kj9hf20b7gnt8b7k1qg4",
+  "赛季Host": "seasonmapstage.php",
+  "赛季Data": "z=vnbpq6ieersxeNpNjr0OgjAURt%2bliSwK6W35aU06GBZdwGji4GIKLUKicAMGosZ3tzi5fDk5y3fe5P4armRNTKcOtrTNaPdd0z42k%2b6NNyoJMXhYI6pdfpzhps7bS5p5OJYqDERAHRWKUQY%2bMJ%2fBEsSC65C5odSzbdk%2f8aE4E6KSukhCGSeRjDQHawwILcOSRxUnK%2fL%2f7npAUCdxxMxOJ9sPTdfO1rkcbZu6urRu8Kc%2bX0ESOwk%3d&b=cfa335fd3d7e8f4505062e006a6dcb83",
+  "魔幻卡10": "z=751a34kbfaeNo9jsGKwjAURf8lYDejJS%2bpmg5kMXahbnQjLtxIkhdsYZo8Wq2o%2bO9GEDeXew5cuA%2fW3vsT%2b2UY9eJyywZd8kJlVBPpv4BdbPAN%2f%2fqwOlabjAani1zlkMMMhExsteBCTDhM%2bPwH1Ega%2bY6CZz647kZnXRZTb0q0liujnHMzgQAonTXGOvCGjdkyRuzXmG7IRFXdUKqQ6s6HXdP6fmHOrv44Gmjjr3vf9U0MH7clHyrT4Xf6fAFrV0BV&b=be547b602becb1520c73189a1a070763",
+  "小红帽Host": "exchangeStores.php",
+  "小红帽Data": "z=ui1442yoeNodjssKwjAQRf8lYDdqyaQvFbLQIuhGBcGFG0kzsS1oMqRSX%2fjvRjcXztnc82bXV1ezGUMnlw%2fdKFub%2fc15s3juvKOolzCFaUQNkZxb9K7FH1zkcXUqNxH1WqbxJIYYchBJ4EoKLsSYw5gXQ5gMEpX8JuWRsdo%2f6SaV4QhVkSAvMq15rrBKDWRKgTiHL2Qj9i9YY8gSeRaYetqY%2b8H4rnU2WAhuS8aWymPZtPRXny9feT2e&b=fbaa5d70531f7772fc1e5d956fa4be81",
   "host": "x1.mysticalcard.com",
-  "path": "/NewBoss.php",
-  "Cookie": "8ig4tsa7sjghae14eadis96ef2",
-  "round": 80,
-  "data": "z=agdp148qj7eNo1jk0LgkAURf%2fLQG5KefOhjsEsykW1sU20aBPqTCmU89AyLPrvjUKbC%2bdw4d4Pub%2b7K1kSbdX6OWys1Z3XK8Eh9rBCVKtGt7bWI9zUaXtOMw%2f7UolABjSgEWXccaEYMOYD9SGeUznjOR9DgGeash3woaSg0hQAeaI5izgv9CWJBAvDHGSYACMLMm3vtPtCOUR%2fcRjQOAWOscfMvI6m7WrbjDXn9miaNG91WtU4qe8Pc1k81A%3d%3d&b=e8f2559cfb6669dd63331bbf86d120d1"
+  "path": "/shop.php",
+  "Cookie": "eklgb1kj9hf20b7gnt8b7k1qg4",
+  "round": 60,
+  "data": "z=751a34kbfaeNo9jsGKwjAURf8lYDejJS%2bpmg5kMXahbnQjLtxIkhdsYZo8Wq2o%2bO9GEDeXew5cuA%2fW3vsT%2b2UY9eJyywZd8kJlVBPpv4BdbPAN%2f%2fqwOlabjAani1zlkMMMhExsteBCTDhM%2bPwH1Ega%2bY6CZz647kZnXRZTb0q0liujnHMzgQAonTXGOvCGjdkyRuzXmG7IRFXdUKqQ6s6HXdP6fmHOrv44Gmjjr3vf9U0MH7clHyrT4Xf6fAFrV0BV&b=be547b602becb1520c73189a1a070763"
 }
