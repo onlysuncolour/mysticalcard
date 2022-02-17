@@ -1,7 +1,7 @@
 const fs = require('fs')
 const {writeFile} = require('../utils/writeFile')
 
-const type = 'soulFetter' // card contract rune prop soulFetter
+const type = 'card' // card contract rune prop soulFetter
 const skillData = require('./fulldata/skill.json')    
 let fullData, _myData
 switch (type) {
@@ -11,7 +11,7 @@ switch (type) {
     break;
   case 'contract':
     fullData = require('./fulldata/contract.json')    
-    _myData = require('./mydata_o/contract.json')    
+    _myData = require('./mydata_o/card.json')    
     break;
   case 'rune':
     fullData = require('./fulldata/rune.json')    
@@ -41,7 +41,11 @@ if (type === 'card') {
       HpLevel: card.HpLevel,
     }
     let result = oCard?.name
-    if (skillNew?.name) result += ` - ${skillNew?.name}`
+    if (skillNew?.name) {
+      result += ` - ${skillNew?.name}`
+    } else if (card.Level != 0) {
+      result += ` - lv${card.Level}`
+    }
     if (card.AwakingLevel != '0') {
       result += ` ${card.AwakingLevel}破`
       _card.AwakingLevel = card.AwakingLevel
@@ -79,6 +83,7 @@ if (type === 'contract') {
       result += ` - ${_card.SkillNew}`
     }
     _card.result = result
+    console.log(_card, oCard)
     return _card;
   }).filter(c => !!c.id).sort((a, b) => b.id - a.id).map(c => c.result);
   writeFile(`gameData/mydata/${type}.json`, JSON.stringify(myData))
