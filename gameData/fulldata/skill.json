@@ -10658,6 +10658,230 @@
     {
         "server": "x",
         "type": "skill",
+        "id": 7739,
+        "name": "月上柳梢头",
+        "category": "2",
+        "desc": null
+    },
+    {
+        "server": "x",
+        "type": "skill",
+        "id": 7736,
+        "name": "圣光普渡",
+        "category": "2",
+        "desc": null
+    },
+    {
+        "server": "x",
+        "type": "skill",
+        "id": 7735,
+        "name": "敌方召唤岑+",
+        "category": "2",
+        "desc": null
+    },
+    {
+        "server": "x",
+        "type": "skill",
+        "id": 7734,
+        "name": "爱之轮回",
+        "category": "2",
+        "desc": null
+    },
+    {
+        "server": "x",
+        "type": "skill",
+        "id": 7733,
+        "name": "破界神",
+        "category": "3",
+        "desc": null
+    },
+    {
+        "server": "x",
+        "type": "skill",
+        "id": 7732,
+        "name": "[降临]夺魂5",
+        "category": "2",
+        "desc": null
+    },
+    {
+        "server": "x",
+        "type": "skill",
+        "id": 7731,
+        "name": "[死契]歼灭7个70",
+        "category": "2",
+        "desc": null
+    },
+    {
+        "server": "x",
+        "type": "skill",
+        "id": 7730,
+        "name": "因果复仇",
+        "category": "2",
+        "desc": null
+    },
+    {
+        "server": "x",
+        "type": "skill",
+        "id": 7729,
+        "name": "恣睢无忌",
+        "category": "2",
+        "desc": null
+    },
+    {
+        "server": "x",
+        "type": "skill",
+        "id": 7728,
+        "name": "[死契]断肠4",
+        "category": "2",
+        "desc": null
+    },
+    {
+        "server": "x",
+        "type": "skill",
+        "id": 7727,
+        "name": "纷争之始",
+        "category": "2",
+        "desc": null
+    },
+    {
+        "server": "x",
+        "type": "skill",
+        "id": 7726,
+        "name": "梦祭",
+        "category": "2",
+        "desc": null
+    },
+    {
+        "server": "x",
+        "type": "skill",
+        "id": 7725,
+        "name": "手牌陷阱墓地65",
+        "category": "2",
+        "desc": null
+    },
+    {
+        "server": "x",
+        "type": "skill",
+        "id": 7724,
+        "name": "【降临】召唤西蜀梦",
+        "category": "2",
+        "desc": null
+    },
+    {
+        "server": "x",
+        "type": "skill",
+        "id": 7723,
+        "name": "西蜀祈",
+        "category": "2",
+        "desc": null
+    },
+    {
+        "server": "x",
+        "type": "skill",
+        "id": 7722,
+        "name": "自爆除外魂归",
+        "category": "2",
+        "desc": null
+    },
+    {
+        "server": "x",
+        "type": "skill",
+        "id": 7721,
+        "name": "远方的期许",
+        "category": "2",
+        "desc": null
+    },
+    {
+        "server": "x",
+        "type": "skill",
+        "id": 7720,
+        "name": "赤焰烙印2",
+        "category": "2",
+        "desc": null
+    },
+    {
+        "server": "x",
+        "type": "skill",
+        "id": 7719,
+        "name": "继承哀啼",
+        "category": "2",
+        "desc": null
+    },
+    {
+        "server": "x",
+        "type": "skill",
+        "id": 7718,
+        "name": "稳固根基1",
+        "category": "2",
+        "desc": null
+    },
+    {
+        "server": "x",
+        "type": "skill",
+        "id": 7717,
+        "name": "荣耀永存",
+        "category": "2",
+        "desc": null
+    },
+    {
+        "server": "x",
+        "type": "skill",
+        "id": 7716,
+        "name": "顽强绽放",
+        "category": "2",
+        "desc": null
+    },
+    {
+        "server": "x",
+        "type": "skill",
+        "id": 7715,
+        "name": "[降临]雷引",
+        "category": "2",
+        "desc": null
+    },
+    {
+        "server": "x",
+        "type": "skill",
+        "id": 7714,
+        "name": "风清绝壁",
+        "category": "2",
+        "desc": null
+    },
+    {
+        "server": "x",
+        "type": "skill",
+        "id": 7713,
+        "name": "【降临】对方缓速3-1",
+        "category": "2",
+        "desc": null
+    },
+    {
+        "server": "x",
+        "type": "skill",
+        "id": 7712,
+        "name": "竹林守护者·魔",
+        "category": "2",
+        "desc": null
+    },
+    {
+        "server": "x",
+        "type": "skill",
+        "id": 7711,
+        "name": "召唤魔滚滚",
+        "category": "2",
+        "desc": null
+    },
+    {
+        "server": "x",
+        "type": "skill",
+        "id": 7710,
+        "name": "清音幽韵",
+        "category": "2",
+        "desc": null
+    },
+    {
+        "server": "x",
+        "type": "skill",
         "id": 7709,
         "name": "[预兆]夺魂3",
         "category": "2",
@@ -10834,6 +11058,54 @@
     {
         "server": "x",
         "type": "skill",
+        "id": 7674,
+        "name": "手陷墓地牌堆",
+        "category": "2",
+        "desc": null
+    },
+    {
+        "server": "x",
+        "type": "skill",
+        "id": 7673,
+        "name": "危殆魔眼",
+        "category": "2",
+        "desc": null
+    },
+    {
+        "server": "x",
+        "type": "skill",
+        "id": 7672,
+        "name": "[降临]退散6",
+        "category": "2",
+        "desc": null
+    },
+    {
+        "server": "x",
+        "type": "skill",
+        "id": 7671,
+        "name": "来吧！",
+        "category": "2",
+        "desc": null
+    },
+    {
+        "server": "x",
+        "type": "skill",
+        "id": 7670,
+        "name": "煎熬循环",
+        "category": "2",
+        "desc": null
+    },
+    {
+        "server": "x",
+        "type": "skill",
+        "id": 7669,
+        "name": "痛苦残留",
+        "category": "2",
+        "desc": null
+    },
+    {
+        "server": "x",
+        "type": "skill",
         "id": 7668,
         "name": "紊乱9",
         "category": "2",
@@ -10908,6 +11180,54 @@
         "type": "skill",
         "id": 7659,
         "name": "神奇的海螺1",
+        "category": "2",
+        "desc": null
+    },
+    {
+        "server": "x",
+        "type": "skill",
+        "id": 7657,
+        "name": "羽扇纶巾",
+        "category": "2",
+        "desc": null
+    },
+    {
+        "server": "x",
+        "type": "skill",
+        "id": 7656,
+        "name": "手牌陷阱牌堆90",
+        "category": "2",
+        "desc": null
+    },
+    {
+        "server": "x",
+        "type": "skill",
+        "id": 7655,
+        "name": "拜月亭",
+        "category": "2",
+        "desc": null
+    },
+    {
+        "server": "x",
+        "type": "skill",
+        "id": 7653,
+        "name": "[降临]退散5",
+        "category": "2",
+        "desc": null
+    },
+    {
+        "server": "x",
+        "type": "skill",
+        "id": 7652,
+        "name": "断织之诫",
+        "category": "2",
+        "desc": null
+    },
+    {
+        "server": "x",
+        "type": "skill",
+        "id": 7651,
+        "name": "繁花似锦",
         "category": "2",
         "desc": null
     },

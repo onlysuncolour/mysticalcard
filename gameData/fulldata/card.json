@@ -2434,6 +2434,14 @@
     {
         "server": "x",
         "type": "card",
+        "id": 1835,
+        "name": "西蜀梦",
+        "category": null,
+        "desc": null
+    },
+    {
+        "server": "x",
+        "type": "card",
         "id": 1834,
         "name": "魔·紫滚滚",
         "category": null,
@@ -2458,6 +2466,14 @@
     {
         "server": "x",
         "type": "card",
+        "id": 1829,
+        "name": "上元佳人",
+        "category": null,
+        "desc": null
+    },
+    {
+        "server": "x",
+        "type": "card",
         "id": 1828,
         "name": "虎年祝福",
         "category": null,
@@ -2468,6 +2484,14 @@
         "type": "card",
         "id": 1827,
         "name": "莹莹的馈赠",
+        "category": null,
+        "desc": null
+    },
+    {
+        "server": "x",
+        "type": "card",
+        "id": 1826,
+        "name": "塔罗·节制",
         "category": null,
         "desc": null
     },
@@ -2556,6 +2580,14 @@
         "type": "card",
         "id": 1815,
         "name": "双子星",
+        "category": null,
+        "desc": null
+    },
+    {
+        "server": "x",
+        "type": "card",
+        "id": 1814,
+        "name": "纷争女神",
         "category": null,
         "desc": null
     },

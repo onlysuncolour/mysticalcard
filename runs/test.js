@@ -1,4 +1,6 @@
 const {httpPost} = require('../utils/httpPost')
+// const {httpPost} = require('../utils/httpPostDecode');
+
 const {host, path, Cookie, data, round = 1} = require('../basicOptions.json')
 
 const datas = Array.from({length: round}).fill(data);
@@ -25,6 +27,7 @@ const run = () => {
     promises.push(httpPost(options, d, i))
   })
   Promise.allSettled(promises).then(resps => {
+    // console.log(JSON.stringify(resps.map(r => r.value.data.ExtData.Award)))
     // do nothing
   })
 }
